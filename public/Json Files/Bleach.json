@@ -1,0 +1,112 @@
+[
+  {
+    "id": "Bleach1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Face + Neck Oxy Bleach.webp",
+    "name": "Face + Neck Oxy Bleach",
+    "price": 529,
+    "offerprice": 579,
+    "discount": "30%",
+    "time": "10 min",
+    "href": "/service/bleach-dtan",
+    "features": ["Brightens Dull Complexion", "Evens Skin Tone", "Reduces Dark Spots"]
+  },
+  {
+    "id": "Bleach2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Full Body Oxy Bleach.webp",
+    "name": "Full Body Oxy Bleach",
+    "price": 1299,
+    "offerprice": 1549,
+    "discount": "30%",
+    "time": "10 min",
+    "href": "/service/bleach-dtan",
+    "features": ["Brightens Full Body", "Evens Skin Tone", "Reduces Uneven Pigmentation"]
+  },
+  {
+    "id": "Bleach3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Full Arms Oxy Bleach.webp",
+    "name": "Full Arms Oxy Bleach",
+    "price": 649,
+    "offerprice": 749,
+    "discount": "30%",
+    "time": "10 min",
+    "href": "/service/bleach-dtan",
+    "features": ["Brightens Arm Skin", "Evens Skin Tone", "Reduces Dark Spots"]
+  },
+  {
+    "id": "Bleach4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Full Legs Oxy Bleach.webp",
+    "name": "Full Legs Oxy Bleach",
+    "price": 749,
+    "offerprice": 849,
+    "discount": "30%",
+    "time": "10 min",
+    "href": "/service/bleach-dtan",
+    "features": ["Brightens Leg Skin", "Evens Out Skin Tone", "Reduces Dark Spots"]
+  },
+  {
+    "id": "Bleach5",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Full Back Oxy Bleach.webp",
+    "name": "Full Back Oxy Bleach",
+    "price": 799,
+    "offerprice": 899,
+    "discount": "30%",
+    "time": "10 min",
+    "href": "/service/bleach-dtan",
+    "features": ["Brightens Back Skin", "Evens Skin Tone", "Reduces Acne Marks"]
+  },
+  {
+      "id": "Bleach6",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Face + Neck O3 Bleach.webp",
+      "name": "Face + Neck O3 Bleach",
+      "price": 649,
+      "offerprice": 799,
+      "discount": "30%",
+      "time": "10 min",
+      "href": "/service/bleach-dtan",
+      "features": ["Brightens Face and Neck", "Evens Skin Tone", "Reduces Dark Spots"]
+    },
+    {
+      "id": "Bleach7",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Full Body O3 Bleach.webp",
+      "name": "Full Body O3 Bleach",
+      "price": 1899,
+      "offerprice": 2199,
+      "discount": "30%",
+      "time": "10 min",
+      "href": "/service/bleach-dtan",
+      "features": ["Brightens Full Body", "Evens Out Skin Tone", "Reduces Hyperpigmentation"]
+    },
+    {
+      "id": "Bleach8",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Full Arms O3 Bleach.webp",
+      "name": "Full Arms O3 Bleach",
+      "price": 789,
+      "offerprice": 849,
+      "discount": "30%",
+      "time": "10 min",
+      "href": "/service/bleach-dtan",
+      "features": ["Brightens Arm Skin", "Evens Skin Tone", "Reduces Dark Spots"]
+    },
+    {
+      "id": "Bleach9",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Full Legs O3 Bleach.webp",
+      "name": "Full Legs O3 Bleach",
+      "price": 919,
+      "offerprice": 999,
+      "discount": "30%",
+      "time": "10 min",
+      "href": "/service/bleach-dtan",
+      "features": ["Brightens Leg Skin", "Evens Out Skin Tone", "Reduces Uneven Pigmentation"]
+    },
+    {
+      "id": "Bleach10",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Full Back O3 Bleach.webp",
+      "name": "Full Back O3 Bleach",
+      "price": 949,
+      "offerprice": 1049,
+      "discount": "30%",
+      "time": "10 min",
+      "href": "/service/bleach-dtan",
+      "features": ["Brightens Back Skin", "Evens Out Skin Tone", "Reduces Acne Marks"]
+    }
+]

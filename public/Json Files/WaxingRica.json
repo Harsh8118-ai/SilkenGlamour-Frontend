@@ -1,0 +1,107 @@
+[
+  {
+    "id": "WaxingRica1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Underarms Wax.webp",
+    "name": "Under Arms Wax",
+    "price": 449,
+    "offerprice": 549,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Underarm Hair",
+      "Provides Smooth Skin",
+      "Reduces Hair Regrowth"
+    ],
+    "href": "/service/waxing"
+  },
+  {
+    "id": "WaxingRica2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Full Arms Wax.webp",
+    "name": "Full Arms Wax",
+    "price": 599,
+    "offerprice": 799,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Full Arm Hair",
+      "Provides Smooth, Hair-Free Skin",
+      "Reduces Hair Regrowth"
+    ],
+    "href": "/service/waxing"
+  },
+  {
+    "id": "WaxingRica3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Full Legs Wax.webp",
+    "name": "Full Legs Wax",
+    "price": 749,
+    "offerprice": 899,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Full Leg Hair",
+      "Provides Smooth, Hair-Free Skin",
+      "Reduces Hair Regrowth"
+    ],
+    "href": "/service/waxing"
+  },
+  {
+    "id": "WaxingRica4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Back Wax.webp",
+    "name": "Full Back Wax",
+    "price": 799,
+    "offerprice": 949,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Full Back Hair",
+      "Provides Smooth, Hair-Free Skin",
+      "Reduces Hair Regrowth"
+    ],
+    "href": "/service/waxing"
+  },
+  {
+    "id": "WaxingRica5",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Bikini Wax.webp",
+    "name": "Bikini Wax",
+    "price": 1199,
+    "offerprice": 1499,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Bikini Area Hair",
+      "Provides Smooth, Clean Finish",
+      "Reduces Hair Regrowth"
+    ],
+    "href": "/service/waxing"
+  },
+  {
+    "id": "WaxingRica6",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Stomach Wax.webp",
+    "name": "Stomach Wax",
+    "price": 649,
+    "offerprice": 999,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Stomach Hair",
+      "Provides Smooth Skin",
+      "Reduces Hair Regrowth"
+    ],
+    "href": "/service/waxing"
+  },
+  {
+    "id": "WaxingRica7",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Full Body Wax.webp",
+    "name": "Full Body Wax",
+    "price": 1899,
+    "offerprice": 2499,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Hair from Entire Body",
+      "Provides Smooth, Hair-Free Skin",
+      "Reduces Overall Hair Regrowth"
+    ],
+    "href": "/service/waxing"
+  }
+]

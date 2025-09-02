@@ -1,0 +1,92 @@
+[
+  {
+    "id": "FaceWax1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Upper Lips Brazilian Wax.webp",
+    "name": "Upper Lips Brazilian Wax",
+    "price": 149,
+    "offerprice": 199,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Hair Smoothly",
+      "Reduces Hair Growth",
+      "Provides Long-Lasting Results"
+    ],
+    "href": "/service/threading"
+  },
+  {
+    "id": "FaceWax2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Chin Brazilian Wax.webp",
+    "name": "Chin Brazilian Wax",
+    "price": 119,
+    "offerprice": 149,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Hair Smoothly",
+      "Reduces Regrowth",
+      "Ensures Smooth Skin"
+    ],
+    "href": "/service/threading"
+  },
+  {
+    "id": "FaceWax3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Side Locks Brazilian Wax.webp",
+    "name": "Side Locks Brazilian Wax",
+    "price": 169,
+    "offerprice": 199,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Side Hair Smoothly",
+      "Reduces Hair Regrowth",
+      "Provides Long-Lasting Smoothness"
+    ],
+    "href": "/service/threading"
+  },
+  {
+    "id": "FaceWax4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Forehead Brazilian Wax.webp",
+    "name": "Forehead Brazilian Wax",
+    "price": 129,
+    "offerprice": 149,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Forehead Hair",
+      "Provides Smooth, Hair-Free Skin",
+      "Reduces Hair Regrowth"
+    ],
+    "href": "/service/threading"
+  },
+  {
+    "id": "FaceWax5",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Full Face Brazilian Wax.webp",
+    "name": "Full Face Brazilian Wax",
+    "price": 499,
+    "offerprice": 599,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Forehead Hair",
+      "Reduces Regrowth",
+      "Ensures Smooth Skin"
+    ],
+    "href": "/service/threading"
+  },
+  {
+    "id": "FaceWax6",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Bikini Brazilian Wax.webp",
+    "name": "Bikini Brazilian Wax",
+    "price": 1499,
+    "offerprice": 1999,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Hair Smoothly",
+      "Reduces Ingrown Hairs",
+      "Provides Long-Lasting Smoothness"
+    ],
+    "href": "/service/threading"
+  }
+]

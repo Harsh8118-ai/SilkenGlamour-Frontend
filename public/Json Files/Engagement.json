@@ -1,0 +1,47 @@
+[
+  {
+    "id": "Engagement1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Engagemant & Bridal/Roka Makeup.webp",
+    "name": "Roka Makeup",
+    "price": 9999,
+    "offerprice": 15000,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Including Lenses & Lashes",
+      "Elegant and Refined",
+      "Long-Lasting Finish"
+    ],
+    "href": "/service/weddingpackage"
+  },
+  {
+    "id": "Engagement2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Engagemant & Bridal/HD Engagement Makeup.webp",
+    "name": "HD Engagement Makeup",
+    "price": 11999,
+    "offerprice": 16000,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Including Lenses & Lashes",
+      "Flawless High-Definition Coverage",
+      "Enhances Natural Beauty"
+    ],
+    "href": "/service/weddingpackage"
+  },
+  {
+    "id": "Engagement3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Engagemant & Bridal/Airbrush Makeup.webp",
+    "name": "Airbrush Makeup",
+    "price": 14999,
+    "offerprice": 20000,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Including Lenses & Lashes",
+      "Flawless, Smooth Finish",
+      "Long-Lasting Wear"
+    ],
+    "href": "/service/weddingpackage"
+  }
+]

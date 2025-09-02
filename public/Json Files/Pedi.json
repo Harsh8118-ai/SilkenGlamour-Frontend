@@ -1,0 +1,62 @@
+[
+  {
+    "id": "Pedi1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Mani-Pedi/Padifai Pedicure.webp",
+    "name": "Regular Pedicure",
+    "price": 699,
+    "offerprice": 949,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Revitalizes Tired Feet",
+      "Softens and Exfoliates",
+      "Enhances Nail and Skin Health"
+    ],
+    "href": "/service/mani-pedi"
+  },
+  {
+    "id": "Pedi2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Mani-Pedi/VLCC Pedicure.webp",
+    "name": "VLCC Pedicure",
+    "price": 849,
+    "offerprice": 1099,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Deep Cleanses Feet",
+      "Nourishes and Softens Skin",
+      "Improves Nail Health and Appearance"
+    ],
+    "href": "/service/mani-pedi"
+  },
+  {
+    "id": "Pedi3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Mani-Pedi/Aroma Pedicure.webp",
+    "name": "Aroma Pedicure",
+    "price": 999,
+    "offerprice": 1299,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Relaxing Aromatherapy",
+      "Softens and Hydrates Feet",
+      "Enhances Nail and Skin Health"
+    ],
+    "href": "/service/mani-pedi"
+  },
+  {
+    "id": "Pedi4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Mani-Pedi/O3 Pedicure.webp",
+    "name": "O3 Pedicure",
+    "price": 1249,
+    "offerprice": 1599,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Deep Cleanses and Exfoliates",
+      "Nourishes and Hydrates Feet",
+      "Revitalizes and Refreshes Skin"
+    ],
+    "href": "/service/mani-pedi"
+  }
+]

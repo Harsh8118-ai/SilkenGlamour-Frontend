@@ -1,0 +1,49 @@
+[
+  {
+    "id": "Mani1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Mani-Pedi/Regular Manicure.webp",
+    "name": "Regular Manicure",
+    "price": 599,
+    "offerprice": 799,
+    "discount": "30%",
+    "time": "10 min",
+    "features": ["Shapes and Smooths Nails", "Softens Hands and Cuticles", "Enhances Nail Appearance"],
+    "href" : "/service/mani-pedi"
+  },
+    {
+      "id": "Mani2",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Mani-Pedi/VLCC Manicure.webp",
+      "name": "VLCC  Manicure",
+      "price": 749,
+      "offerprice": 999,
+      "discount": "30%",
+    "time": "10 min",
+      "features": ["Hydrates and Softens Hands", "Nourishes Cuticles", "Enhances Nail Appearance"],
+      "href" : "/service/mani-pedi"
+    },
+    {
+      "id": "Mani3",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Mani-Pedi/Aroma Manicure.webp",
+      "name": "Aroma Manicure",
+      "price": 849,
+      "offerprice": 1199,
+      "discount": "30%",
+    "time": "10 min",
+      "features": ["Relaxing therapy", "Softens and Nourishes Hands", "Enhances Nail Health"],
+      "href" : "/service/mani-pedi"
+    },
+    {
+      "id": "Mani4",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Mani-Pedi/O3 Manicure.webp",
+      "name": "O3  Manicure",
+      "price": 949,
+      "offerprice": 1499,
+      "discount": "30%",
+    "time": "10 min",
+      "features": ["Deep Cleanses and Exfoliates", "Nourishes and Hydrates", "Revitalizes Nail Health"],
+      "href" : "/service/mani-pedi"
+    }
+   
+    
+  ]
+  

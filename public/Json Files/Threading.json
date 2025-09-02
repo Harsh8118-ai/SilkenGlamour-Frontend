@@ -1,0 +1,62 @@
+[
+  {
+    "id": "Threading1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Eyebrow Threading.webp",
+    "name": "Eyebrow Threading",
+    "price": 89,
+    "offerprice": 99,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Shapes and Defines Eyebrows",
+      "Removes Unwanted Hair",
+      "Creates Clean, Precise Lines"
+    ],
+    "href": "/service/threading"
+  },
+  {
+    "id": "Threading2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Upper Lips Threading.webp",
+    "name": "Upper Lips Threading",
+    "price": 49,
+    "offerprice": 79,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Upper Lip Hair",
+      "Provides Smooth Finish",
+      "Defines Lip Contour"
+    ],
+    "href": "/service/threading"
+  },
+  {
+    "id": "Threading3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Chin Threading.webp",
+    "name": "Chin Threading",
+    "price": 59,
+    "offerprice": 89,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Chin Hair",
+      "Provides Smooth, Clean Finish",
+      "Defines Chin Contour"
+    ],
+    "href": "/service/threading"
+  },
+  {
+    "id": "Threading4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Forehead Threading.webp",
+    "name": "Forehead Threading",
+    "price": 89,
+    "offerprice": 99,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Forehead Hair",
+      "Creates Smooth Appearance",
+      "Defines Forehead Shape"
+    ],
+    "href": "/service/threading"
+  }
+]

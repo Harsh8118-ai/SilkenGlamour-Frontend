@@ -1,0 +1,77 @@
+[
+  {
+    "id": "ArtWork1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Nail Art/Chrome.webp",
+    "name": "Chrome",
+    "price": 500,
+    "offerprice": 700,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Shiny Metallic Finish",
+      "Adds Sleek Modern Look",
+      "Provides Reflective Shine"
+    ],
+    "href": "/service/nailart"
+  },
+  {
+    "id": "ArtWork2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Nail Art/3D Art.webp",
+    "name": "3D Art",
+    "price": 300,
+    "offerprice": 400,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Adds Texture and Depth",
+      "Creates Eye-Catching Designs",
+      "Enhances Nail Art with Dimension"
+    ],
+    "href": "/service/nailart"
+  },
+  {
+    "id": "ArtWork3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Nail Art/Marble Art.webp",
+    "name": "Marble Art",
+    "price": 500,
+    "offerprice": 700,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Elegant Swirling Patterns",
+      "Creates Unique Designs",
+      "Adds Sophisticated Touch"
+    ],
+    "href": "/service/nailart"
+  },
+  {
+    "id": "ArtWork4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Nail Art/Spider Art.webp",
+    "name": "Spider Design",
+    "price": 200,
+    "offerprice": 300,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Intricate Web Patterns",
+      "Adds Bold, Unique Look",
+      "Creates Eye-Catching Detail"
+    ],
+    "href": "/service/nailart"
+  },
+  {
+    "id": "ArtWork5",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Nail Art/Gel Polish.webp",
+    "name": "Gel Polish",
+    "price": 749,
+    "offerprice": 300,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Delivers Long-Lasting Shine",
+    "Provides Chip-Resistant Wear",
+    "Ensures Even, Vibrant Color"
+    ],
+    "href": "/service/nailart"
+  }
+]

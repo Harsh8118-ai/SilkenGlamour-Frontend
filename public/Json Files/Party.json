@@ -1,0 +1,62 @@
+[
+  {
+    "id": "Party1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Party/Birthday Makeup.webp",
+    "name": "Birthday Makeup",
+    "price": 1299,
+    "offerprice": 1500,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Including Advanvce Hairdo",
+      "Enhances Facial Features",
+      "Provides Glamorous Look"
+    ],
+    "href": "/service/weddingpackage"
+  },
+  {
+    "id": "Party2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Party/Forever52 & Krylon.webp",
+    "name": "Forever52 & Krylon",
+    "price": 2499,
+    "offerprice": 3000,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Including Advanvce Hairdo",
+      "High-Quality, Long-Lasting",
+      "Provides Professional Finish"
+    ],
+    "href": "/service/weddingpackage"
+  },
+  {
+    "id": "Party3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Party/Mac Makeup.webp",
+    "name": "Mac Makeup",
+    "price": 3499,
+    "offerprice": 4000,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Including Advanvce Hairdo",
+      "Flawless Coverage",
+      "High-Performance Formula"
+    ],
+    "href": "/service/weddingpackage"
+  },
+  {
+    "id": "Party4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Party/Airbrush Makeup.webp",
+    "name": "Airbrush Makeup",
+    "price": 4999,
+    "offerprice": 7000,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Including Advanvce Hairdo",
+      "Smooth, Even Application",
+      "Long-Lasting Finish"
+    ],
+    "href": "/service/weddingpackage"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "HairCare1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Hair Wash.webp",
+    "name": "Hair Wash",
+    "price": 299,
+    "offerprice": 399,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Deep Cleanses Scalp",
+      "Nourishes Hair Roots",
+      "Adds Shine and Softness"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairCare2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Hair Cut.webp",
+    "name": "Hair Cut",
+    "price": 649,
+    "offerprice": 999,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Refreshes Hairstyle",
+      "Removes Split Ends",
+      "Enhances Hair Shape"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairCare3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Hair Straight.webp",
+    "name": "Hair Straight",
+    "price": 599,
+    "offerprice": 799,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Smooths Frizz",
+      "Adds Sleek Shine",
+      "Long-Lasting Straightness"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairCare4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Outcurls.webp",
+    "name": "Out Curls",
+    "price": 649,
+    "offerprice": 799,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Defines Curls",
+      "Reduces Frizz",
+      "Adds Volume and Bounce"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairCare5",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Ironing.webp",
+    "name": "Iron Straighten",
+    "price": 649,
+    "offerprice": 749,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Smooths Out Creases",
+      "Adds Sleek Finish",
+      "Enhances Hair Shine"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairCare6",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Ironing Curls.webp",
+    "name": "Iron Curls",
+    "price": 699,
+    "offerprice": 799,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Defines Curls",
+      "Smooths Out Frizz",
+      "Adds Shine and Volume"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairCare7",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Blow Dry.webp",
+    "name": "Blow Dry",
+    "price": 549,
+    "offerprice": 699,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Provides Sleek, Smooth Finish",
+      "Adds Volume and Shape",
+      "Enhances Hair Shine and Manageability"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairCare8",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Splends.webp",
+    "name": "Splends",
+    "price": 449,
+    "offerprice": 549,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Boosts Shine",
+      "Enhances Hair Texture",
+      "Reduces Frizz"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairColour9",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Keratin.webp",
+    "name": "Keratin",
+    "price": 5499,
+    "offerprice": 7299,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Smooths and Tames Hair",
+      "Reduces Frizz",
+      "Adds Long-Lasting Shine"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairColour10",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Hair Botox.webp",
+    "name": "Hair Botox",
+    "price": 6949,
+    "offerprice": 8999,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Repairs Damaged Hair",
+      "Restores Shine and Softness",
+      "Reduces Frizz and Breakage"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairColour11",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Smoothning.webp",
+    "name": "Smoothning",
+    "price": 5499,
+    "offerprice": 6999,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Reduces Frizz",
+      "Enhances Shine",
+      "Creates Sleek Texture"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairColour12",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Hair SPA.webp",
+    "name": "Hair SPA",
+    "price": 1699,
+    "offerprice": 2199,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Deeply Nourishes Hair",
+      "Enhances Shine and Softness",
+      "Promotes Scalp Health"
+    ],
+    "href": "/service/haircare"
+  }
+]

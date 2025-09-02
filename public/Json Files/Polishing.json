@@ -1,0 +1,47 @@
+[
+  {
+    "id": "Polishing1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Polish & Massage/Polish/Full Body Polishing.webp",
+    "name": "Full Body Polishing",
+    "price": 1999,
+    "offerprice": 2499,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Exfoliates and Smooths Skin",
+      "Brightens Overall Complexion",
+      "Removes Dead Skin Cells"
+    ],
+    "href": "/service/body-polishing"
+  },
+  {
+    "id": "Polishing2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Polish & Massage/Polish/Full Arms + Legs Polishing.webp",
+    "name": "Full Arms + Legs Polishing",
+    "price": 1399,
+    "offerprice": 1699,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Exfoliates and Smooths Skin",
+      "Brightens Arms and Legs",
+      "Removes Dead Skin Cells"
+    ],
+    "href": "/service/body-polishing"
+  },
+  {
+    "id": "Polishing3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Polish & Massage/Polish/Full Back + Arms Polishing.webp",
+    "name": "Full Back + Arms Polishing",
+    "price": 1599,
+    "offerprice": 1999,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Exfoliates and Smooths Skin",
+      "Brightens Back and Arms",
+      "Removes Dead Skin Cells"
+    ],
+    "href": "/service/body-polishing"
+  }
+]

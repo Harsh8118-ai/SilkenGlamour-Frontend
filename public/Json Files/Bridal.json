@@ -1,0 +1,92 @@
+[
+  {
+    "id": "Bridal1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Engagemant & Bridal/HD Bridal Makeup.webp",
+    "name": "HD Bridal Makeup",
+    "price": 17999,
+    "offerprice": 20000,
+    "discount": "30%",
+    "time": "10 min",
+    "href": "/service/weddingpackage",
+    "features": [
+      "Including Lenses, Lashes & Hair Accesories",
+      "High-Definition Coverage",
+      "Enhances Natural Beauty"
+    ]
+  },
+  {
+    "id": "Bridal2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Engagemant & Bridal/Airbrush Bridal Makeup.webp",
+    "name": "Airbrush Bridal Makeup",
+    "price": 19999,
+    "offerprice": 24000,
+    "discount": "30%",
+    "time": "10 min",
+    "href": "/service/weddingpackage",
+    "features": [
+      "Including Lenses, Lashes & Hair Accesories",
+      "Flawless, Smooth Finish",
+      "Long-Lasting Wear"
+    ]
+  },
+  {
+    "id": "Bridal3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Engagemant & Bridal/Celebrity Makeup.webp",
+    "name": "Celebrity Makeup",
+    "price": 24999,
+    "offerprice": 30000,
+    "discount": "30%",
+    "time": "10 min",
+    "href": "/service/weddingpackage",
+    "features": [
+      "Including Lenses, Lashes & Hair Accesories",
+      "Red Carpet Ready",
+      "Expertly Sculpted Look"
+    ]
+  },
+  {
+    "id": "Bridal4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Engagemant & Bridal/Bridal Package.webp",
+    "name": "Bridal Package",
+    "price": 31999,
+    "offerprice": 35000,
+    "discount": "30%",
+    "time": "10 min",
+    "href": "/service/weddingpackage",
+    "features": [
+      "Threading, Waxing, Facial",
+      "D-Tan, Hair SPA, Nail Ext.",
+      "Polishing, Mani-Pedi, Makeup"
+    ]
+  },
+  {
+    "id": "Bridal5",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Engagemant & Bridal/Only Hairdo.webp",
+    "name": "Only Hairdo",
+    "price": 749,
+    "offerprice": 900,
+    "discount": "30%",
+    "time": "10 min",
+    "href": "/service/weddingpackage",
+    "features": [
+      "Including Lenses, Lashes & Hair Accesories",
+      "Stylish Hair Design",
+      "Enhances Overall Look"
+    ]
+  },
+  {
+    "id": "Bridal6",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Engagemant & Bridal/Saree Rapping.webp",
+    "name": "Saree Rapping",
+    "price": 299,
+    "offerprice": 500,
+    "discount": "30%",
+    "time": "10 min",
+    "href": "/service/weddingpackage",
+    "features": [
+      "Including Lenses, Lashes & Hair Accesories",
+      "Perfectly Draped Saree",
+      "Enhances Elegance and Fit"
+    ]
+  }
+]

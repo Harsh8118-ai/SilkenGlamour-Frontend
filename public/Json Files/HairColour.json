@@ -1,0 +1,137 @@
+[
+  {
+    "id": "HairColour1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Touchup (Majirel).webp",
+    "name": "Touchup (Majirel)",
+    "price": 1299,
+    "offerprice": 1599,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Refreshes Hair Color",
+      "Covers Gray Roots",
+      "Maintains Vibrant Hue"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairColour2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Touchup (Inoa).webp",
+    "name": "Touchup (Inoa)",
+    "price": 1499,
+    "offerprice": 1799,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Revives Hair Color",
+      "Covers Gray Roots",
+      "Provides Long-Lasting Color"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairColour3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Global (Base).webp",
+    "name": "Global (Base)",
+    "price": 3999,
+    "offerprice": 4999,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Full Hair Color Change",
+      "Uniform Color Application",
+      "Provides Consistent Hue"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairColour4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Global (Fashion).webp",
+    "name": "Global (Fashion)",
+    "price": 4499,
+    "offerprice": 5999,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Bold Color Change",
+      "Enhances Hair with Trendy Tones",
+      "Provides Uniform Fashionable Hue"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairColour5",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Balayage.webp",
+    "name": "Balayage",
+    "price": 5999,
+    "offerprice": 8499,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Creates Natural Highlights",
+      "Adds Dimension and Depth",
+      "Provides Sun-Kissed Look"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairColour6",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Highlight Crown.webp",
+    "name": "Highlight (Crown)",
+    "price": 4999,
+    "offerprice": 6999,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Brightens Crown Area",
+      "Adds Dimension and Shine",
+      "Creates Subtle Contrast"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairColour7",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Global highlight.webp",
+    "name": "Global Highlight",
+    "price": 6499,
+    "offerprice": 8499,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Uniform Hair Lightening",
+      "Adds Overall Dimension",
+      "Creates Bright, Consistent Highlights"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairColour8",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Ombre.webp",
+    "name": "Ombre",
+    "price": 6699,
+    "offerprice": 9499,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Seamless Color Transition",
+      "Adds Natural-Looking Depth",
+      "Creates Soft, Gradual Highlights"
+    ],
+    "href": "/service/haircare"
+  },
+  {
+    "id": "HairColour9",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Global Lowlight.webp",
+    "name": "Global Lowlight",
+    "price": 5299,
+    "offerprice": 7499,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Enhances Depth with Darker Tones",
+      "Adds Subtle Contrast",
+      "Creates Natural, Multi-Dimensional Look"
+    ],
+    "href": "/service/haircare"
+  }
+]

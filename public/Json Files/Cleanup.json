@@ -1,0 +1,77 @@
+[
+  {
+    "id": "Cleanup2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/Lotus Cleanup.webp",
+    "name": "Lotus Cleanup",
+    "price": 949,
+    "offerprice": 1299,
+    "discount": "30%",
+    "time": "10 min",
+    "href": "/service/facial-cleanup",
+    "features": [
+      "Suitable for All Skin",
+      "Gentle on Skin",
+      "Rich in natural extracts"
+    ]
+  },
+  {
+    "id": "Cleanup3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/Aroma Cleanup.webp",
+    "name": "Aroma Cleanup",
+    "price": 1199,
+    "offerprice": 1499,
+    "discount": "30%",
+    "time": "10 min",
+    "href": "/service/facial-cleanup",
+    "features": [
+      " Cleanup",
+      "Hydrates and Refreshes",
+      "Soothes with Calming Fragrance"
+    ]
+  },
+  {
+    "id": "Cleanup4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/O3 Cleanup.webp",
+    "name": "O3 Cleanup",
+    "price": 1399,
+    "offerprice": 1799,
+    "discount": "30%",
+    "time": "10 min",
+    "href": "/service/facial-cleanup",
+    "features": [
+      "O3 Glow Cleanup",
+      "Brightens and Rejuvenates",
+      "Revitalizes with Oxygen Therapy"
+    ]
+  },
+  {
+    "id": "Cleanup5",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/Vedic Line Cleanup.webp",
+    "name": "Vedic Line Cleanup",
+    "price": 1099,
+    "offerprice": 1399,
+    "discount": "30%",
+    "time": "10 min",
+    "href": "/service/facial-cleanup",
+    "features": [
+      "Suitable for All Skin",
+      "Infused with Ayurvedic Ingredients",
+      "Deep Cleanses & Nourishes"
+    ]
+  },
+  {
+    "id": "Cleanup1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/Kanpeki Cleanup.webp",
+    "name": "Kanpeki Cleanup",
+    "price": 1599,
+    "offerprice": 1999,
+    "discount": "30%",
+    "time": "10 min",
+    "href": "/service/facial-cleanup",
+    "features": [
+      "Kanpeki Gel Cleanup",
+      "Leaves no Residue Behind",
+      "Quick and Efficient Process"
+    ]
+  }
+]

@@ -1,0 +1,1168 @@
+[
+  {
+    "id": "Bleach1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Face + Neck Oxy Bleach.webp",
+    "name": "Face + Neck Oxy Bleach",
+    "price": 529,
+    "offerprice": 579,
+    "features": ["Brightens Dull Complexion", "Evens Skin Tone", "Reduces Dark Spots"]
+  },
+  {
+    "id": "Bleach2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Full Body Oxy Bleach.webp",
+    "name": "Full Body Oxy Bleach",
+    "price": 1299,
+    "offerprice": 1549,
+    "features": ["Brightens Full Body", "Evens Skin Tone", "Reduces Uneven Pigmentation"]
+  },
+  {
+    "id": "Bleach3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Full Arms Oxy Bleach.webp",
+    "name": "Full Arms Oxy Bleach",
+    "price": 649,
+    "offerprice": 749,
+    "features": ["Brightens Arm Skin", "Evens Skin Tone", "Reduces Dark Spots"]
+  },
+  {
+    "id": "Bleach4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Full Legs Oxy Bleach.webp",
+    "name": "Full Legs Oxy Bleach",
+    "price": 749,
+    "offerprice": 849,
+    "features": ["Brightens Leg Skin", "Evens Out Skin Tone", "Reduces Dark Spots"]
+  },
+  {
+    "id": "Bleach5",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Full Back Oxy Bleach.webp",
+    "name": "Full Back Oxy Bleach",
+    "price": 799,
+    "offerprice": 899,
+    "features": ["Brightens Back Skin", "Evens Skin Tone", "Reduces Acne Marks"]
+  },
+  {
+      "id": "Bleach6",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Face + Neck O3 Bleach.webp",
+      "name": "Face + Neck O3 Bleach",
+      "price": 649,
+      "offerprice": 799,
+      "features": ["Brightens Face and Neck", "Evens Skin Tone", "Reduces Dark Spots"]
+    },
+    {
+      "id": "Bleach7",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Full Body O3 Bleach.webp",
+      "name": "Full Body O3 Bleach",
+      "price": 1899,
+      "offerprice": 2199,
+      "features": ["Brightens Full Body", "Evens Out Skin Tone", "Reduces Hyperpigmentation"]
+    },
+    {
+      "id": "Bleach8",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Full Arms O3 Bleach.webp",
+      "name": "Full Arms O3 Bleach",
+      "price": 789,
+      "offerprice": 849,
+      "features": ["Brightens Arm Skin", "Evens Skin Tone", "Reduces Dark Spots"]
+    },
+    {
+      "id": "Bleach9",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Full Legs O3 Bleach.webp",
+      "name": "Full Legs O3 Bleach",
+      "price": 919,
+      "offerprice": 999,
+      "features": ["Brightens Leg Skin", "Evens Out Skin Tone", "Reduces Uneven Pigmentation"]
+    },
+    {
+      "id": "Bleach10",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/Bleach/Full Back O3 Bleach.webp",
+      "name": "Full Back O3 Bleach",
+      "price": 949,
+
+      "offerprice": 1049,
+      "features": ["Brightens Back Skin", "Evens Out Skin Tone", "Reduces Acne Marks"]
+    },
+
+    {
+      "id": "Bridal1",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Engagemant & Bridal/HD Bridal Makeup.webp",
+      "name": "HD Bridal Makeup",
+      "price": 17999,
+      "offerprice": 20000,
+      "features": ["Including Lenses, Lashes & Hair Accesories", "High-Definition Coverage", "Enhances Natural Beauty"]
+    },
+    {
+      "id": "Bridal2",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Engagemant & Bridal/Airbrush Bridal Makeup.webp",
+      "name": "Airbrush Bridal Makeup",
+      "price": 19999,
+      "offerprice": 24000,
+      "features": ["Including Lenses, Lashes & Hair Accesories", "Flawless, Smooth Finish", "Long-Lasting Wear"]
+    },
+    {
+      "id": "Bridal3",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Engagemant & Bridal/Celebrity Makeup.webp",
+      "name": "Celebrity Makeup",
+      "price": 24999,
+      "offerprice": 30000,
+      "features": ["Including Lenses, Lashes & Hair Accesories", "Red Carpet Ready", "Expertly Sculpted Look"]
+    }
+    ,
+    {
+        "id": "Bridal4",
+        "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Engagemant & Bridal/Bridal Package.webp",
+        "name": "Bridal Package",
+        "price": 31999,
+        "offerprice": 35000,
+        "features": ["Threading, Waxing, Facial", "D-Tan, Hair SPA, Nail Ext.", "Polishing, Mani-Pedi, Makeup"]
+      },
+    {
+      "id": "Bridal5",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Engagemant & Bridal/Only Hairdo.webp",
+      "name": "Only Hairdo",
+      "price": 749,
+      "offerprice": 900,
+      "features": ["Including Lenses, Lashes & Hair Accesories", "Stylish Hair Design", "Enhances Overall Look"]
+    }
+    ,
+    {
+      "id": "Bridal6",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Engagemant & Bridal/Saree Rapping.webp",
+      "name": "Saree Rapping",
+      "price": 299,
+      "offerprice": 500,
+      "features": ["Including Lenses, Lashes & Hair Accesories", "Perfectly Draped Saree", "Enhances Elegance and Fit"]
+    },
+
+  {
+    "id": "Cleanup2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/Lotus Cleanup.webp",
+    "name": "Lotus Cleanup",
+    "price": 949,
+    "offerprice": 1299,
+    "features": [
+      "Suitable for All Skin",
+      "Gentle on Skin",
+      "Rich in natural extracts"
+    ]
+  },
+  {
+    "id": "Cleanup3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/Aroma Cleanup.webp",
+    "name": "Aroma Cleanup",
+    "price": 1199,
+    "offerprice": 1499,
+    "features": [
+      " Cleanup",
+      "Hydrates and Refreshes",
+      "Soothes with Calming Fragrance"
+    ]
+  },
+  {
+    "id": "Cleanup4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/O3 Cleanup.webp",
+    "name": "O3 Cleanup",
+    "price": 1399,
+    "offerprice": 1799,
+    "features": [
+      "O3 Glow Cleanup",
+      "Brightens and Rejuvenates",
+      "Revitalizes with Oxygen Therapy"
+    ]
+  },
+  {
+    "id": "Cleanup5",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/Vedic Line Cleanup.webp",
+    "name": "Vedic Line Cleanup",
+    "price": 1099,
+    "offerprice": 1399,
+    "features": [
+      "Suitable for All Skin",
+      "Infused with Ayurvedic Ingredients",
+      "Deep Cleanses & Nourishes"
+    ]
+  },
+  {
+    "id": "Cleanup1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/Kanpeki Cleanup.webp",
+    "name": "Kanpeki Cleanup",
+    "price": 1599,
+    "offerprice": 1999,
+    "features": [
+      "Kanpeki Gel Cleanup",
+      "Leaves no Residue Behind",
+      "Quick and Efficient Process"
+    ]
+  },
+
+  {
+      "id": "Dtan1",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Face + Neck O3 D-Tan.webp",
+      "name": "Face + Neck O3 D-Tan",
+      "price": 749,
+      "offerprice": 849,
+      "features": ["Reduces Tan Effectively", "Brightens Face and Neck", "Evens Skin Tone"]
+  },
+  {
+      "id": "Dtan2",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Full Body O3 D-Tan.webp",
+      "name": "Full Body O3 D-Tan",
+      "price": 2499,
+      "offerprice": 2999,
+      "features": ["Reduces Overall Tan", "Brightens Full Body", "Evens Out Skin Tone"]
+  },
+  {
+      "id": "Dtan3",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Full Arms O3 D-Tan.webp",
+      "name": "Full Arms O3 D-Tan",
+      "price": 899,
+      "offerprice": 1049,
+      "features": ["Reduces Arm Tan", "Brightens Skin Tone", "Evens Out Dark Spots"]
+  },
+  {
+      "id": "Dtan4",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Full Legs O3 D-Tan.webp",
+      "name": "Full Legs O3 D-Tan",
+      "price": 949,
+      "offerprice": 1099,
+      "features": ["Reduces Leg Tan", "Brightens Skin Tone", "Evens Out Dark Spots"]
+  },
+  {
+      "id": "Dtan5",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Full Back O3 D-Tan.webp",
+      "name": "Full Back O3 D-Tan",
+      "price": 999,
+      "offerprice": 1149,
+      "features": ["Reduces Back Tan", "Brightens Skin Tone", "Evens Out Discoloration"]
+  },
+  {
+      "id": "Dtan6",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Face + Neck Raga D-Tan.webp",
+      "name": "Face + Neck Raga D-Tan",
+      "price": 599,
+      "offerprice": 699,
+      "features": ["Reduces Tan Effectively", "Brightens Face and Neck", "Evens Skin Tone"]
+  },
+  {
+      "id": "Dtan7",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Full Body Raga D-Tan.webp",
+      "name": "Full Body Raga D-Tan",
+      "price": 2299,
+      "offerprice": 2699,
+      "features": ["Reduces Overall Tan", "Brightens Full Body", "Evens Out Skin Tone"]
+  },
+  {
+      "id": "Dtan8",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Full Arms Raga D-Tan.webp",
+      "name": "Full Arms Raga D-Tan",
+      "price": 749,
+      "offerprice": 879,
+      "features": ["Reduces Arm Tan", "Brightens Skin Tone", "Evens Out Dark Spots"]
+  },
+  {
+      "id": "Dtan9",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Full Legs Raga D-Tan.webp",
+      "name": "Full Legs Raga D-Tan",
+      "price": 929,
+      "offerprice": 1129,
+      "features": ["Reduces Leg Tan", "Brightens Skin Tone", "Evens Out Dark Spots"]
+  },
+  {
+      "id": "Dtan10",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Full Back Raga D-Tan.webp",
+      "name": "Full Back Raga D-Tan",
+      "price": 989,
+      "offerprice": 1099,
+
+      "features": ["Reduces Back Tan", "Brightens Skin Tone", "Evens Out Discoloration"]
+  },
+
+
+    {
+      "id": "Engagement1",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Engagemant & Bridal/Roka Makeup.webp",
+      "name": "Roka Makeup",
+      "price": 9999,
+      "offerprice": 15000,
+      "features": ["Including Lenses & Lashes", "Elegant and Refined", "Long-Lasting Finish"],
+      "href" : "/"
+    },
+    {
+      "id": "Engagement2",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Engagemant & Bridal/HD Engagement Makeup.webp",
+      "name": "HD Engagement Makeup",
+      "price": 11999,
+      "offerprice": 16000,
+      "features": ["Including Lenses & Lashes", "Flawless High-Definition Coverage", "Enhances Natural Beauty"],
+      "href" : "/"
+    },
+    {
+      "id": "Engagement3",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Engagemant & Bridal/Airbrush Makeup.webp",
+      "name": "Airbrush Makeup" ,
+      "price": 14999,
+      "offerprice": 20000,
+      "features": ["Including Lenses & Lashes", "Flawless, Smooth Finish", "Long-Lasting Wear"],
+
+      "href" : "/"
+    },
+
+
+    {
+      "id": "FaceWax1",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Upper Lips Brazilian Wax.webp",
+      "name": "Upper Lips Brazilian Wax",
+      "price": 149,
+      "offerprice": 199,
+      "features": ["Removes Hair Smoothly", "Reduces Hair Growth", "Provides Long-Lasting Results"],
+      "href" : "/"
+    },
+    {
+      "id": "FaceWax2",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Chin Brazilian Wax.webp",
+      "name": "Chin Brazilian Wax",
+      "price": 119,
+      "offerprice": 149,
+      "features": ["Removes Hair Smoothly", "Reduces Regrowth", "Ensures Smooth Skin"],
+      "href" : "/"
+    },
+    {
+      "id": "FaceWax3",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Side Locks Brazilian Wax.webp",
+      "name": "Side Locks Brazilian Wax",
+      "price": 169,
+      "offerprice": 199,
+      "features": ["Removes Side Hair Smoothly", "Reduces Hair Regrowth", "Provides Long-Lasting Smoothness"],
+      "href" : "/"
+    },
+    {
+      "id": "FaceWax4",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Forehead Brazilian Wax.webp",
+      "name": "Forehead Brazilian Wax",
+      "price": 129,
+      "offerprice": 149,
+      "features": ["Removes Forehead Hair", "Provides Smooth, Hair-Free Skin", "Reduces Hair Regrowth"],
+      "href" : "/"
+    },
+    {
+      "id": "FaceWax5",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Full Face Brazilian Wax.webp",
+      "name": "Full Face Brazilian Wax",
+      "price": 499,
+      "offerprice": 599,
+      "features": ["Removes Forehead Hair", "Reduces Regrowth", "Ensures Smooth Skin"],
+      "href" : "/"
+    },
+    {
+      "id": "FaceWax6",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Bikini Brazilian Wax.webp",
+      "name": "Bikini Brazilian Wax",
+      "price": 1499,
+      "offerprice": 1999,
+      "features": ["Removes Hair Smoothly", "Reduces Ingrown Hairs", "Provides Long-Lasting Smoothness"],
+
+      "href" : "/"
+    },
+
+
+    {
+      "id": "Facial1",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/Sara Gold Facial.webp",
+      "name": "Sara Gold Faci",
+      "price": 1899,
+      "offerprice": 2499,
+      "features": ["Boosts Skin Elasticity", "Enhances Glow and Shine", "Rejuvenates Tired Skin"],
+      "href" : "/service/facial-cleanup"
+    },
+    {
+      "id": "Facial2",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/Cheryl's Facial.webp",
+      "name": "Cheryl's Facial",
+      "price": 2199,
+      "offerprice": 2699,
+      "features": ["Brightens Dull Skin", "Deeply Moisturizes", "Reduces Blemishes and Spots"],
+      "href" : "/service/facial-cleanup"
+    },
+    {
+      "id": "Facial3",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/O3 Facial.webp",
+      "name": "O3 Facial",
+      "price": 2599,
+      "offerprice": 3499,
+      "features": [ "Deeply Cleanses Skin", "Boosts Skin Radiance", "Reduces Fine Lines"],
+      "href" : "/service/facial-cleanup"
+    },
+    {
+      "id": "Facial4",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/Casmara Facial.webp",
+      "name": "Casmara Facial",
+      "price": 3199,
+      "offerprice": 3999,
+      "features": ["Nourishes and Rejuvenates", "Balances Skin Hydration", "Promotes Firmness and Glow"],
+      "href" : "/service/facial-cleanup"
+    },
+    {
+      "id": "Facial5",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/Bridal Glow Facial.webp",
+      "name": "Bridal Glow Facial",
+      "price": 3399,
+      "offerprice": 3999,
+      "features": [ "Enhances Natural Radiance", "Evens Skin Tone", "Boosts Long-Lasting Glow"],
+      "href" : "/service/facial-cleanup"
+    },
+
+  {
+    "id": "HairCare1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Hair Wash.webp",
+    "name": "Hair Wash",
+    "price": 299,
+    "offerprice": 399,
+    "features": [
+      "Deep Cleanses Scalp",
+      "Nourishes Hair Roots",
+      "Adds Shine and Softness"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairCare2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Hair Cut.webp",
+    "name": "Hair Cut",
+    "price": 649,
+    "offerprice": 999,
+    "features": [
+      "Refreshes Hairstyle",
+      "Removes Split Ends",
+      "Enhances Hair Shape"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairCare3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Hair Straight.webp",
+    "name": "Hair Straight",
+    "price": 599,
+    "offerprice": 799,
+    "features": [
+      "Smooths Frizz",
+      "Adds Sleek Shine",
+      "Long-Lasting Straightness"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairCare4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Outcurls.webp",
+    "name": "Out Curls",
+    "price": 649,
+    "offerprice": 799,
+    "features": [
+      "Defines Curls",
+      "Reduces Frizz",
+      "Adds Volume and Bounce"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairCare5",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Ironing.webp",
+    "name": "Iron Straighten",
+    "price": 649,
+    "offerprice": 749,
+    "features": [
+      "Smooths Out Creases",
+      "Adds Sleek Finish",
+      "Enhances Hair Shine"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairCare6",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Ironing Curls.webp",
+    "name": "Iron Curls",
+    "price": 699,
+    "offerprice": 799,
+    "features": [
+      "Defines Curls",
+      "Smooths Out Frizz",
+      "Adds Shine and Volume"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairCare7",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Blow Dry.webp",
+    "name": "Blow Dry",
+    "price": 549,
+    "offerprice": 699,
+    "features": [
+      "Provides Sleek, Smooth Finish",
+    "Adds Volume and Shape",
+    "Enhances Hair Shine and Manageability"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairCare8",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Splends.webp",
+    "name": "Splends",
+    "price": 449,
+    "offerprice": 549,
+    "features": [
+      "Boosts Shine",
+      "Enhances Hair Texture",
+      "Reduces Frizz"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairColour9",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Keratin.webp",
+    "name": "Keratin",
+    "price": 5499,
+    "offerprice": 7299,
+    "features": [
+      "Smooths and Tames Hair",
+      "Reduces Frizz",
+      "Adds Long-Lasting Shine"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairColour10",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Hair Botox.webp",
+    "name": "Hair Botox",
+    "price": 6949,
+    "offerprice": 8999,
+    "features": [
+      "Repairs Damaged Hair",
+      "Restores Shine and Softness",
+      "Reduces Frizz and Breakage"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairColour11",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Smoothning.webp",
+    "name": "Smoothning",
+    "price": 5499,
+    "offerprice": 6999,
+    "features": [
+      "Reduces Frizz",
+      "Enhances Shine",
+      "Creates Sleek Texture"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairColour12",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Hair SPA.webp",
+    "name": "Hair SPA",
+    "price": 1699,
+    "offerprice": 2199,
+    "features": [
+      "Deeply Nourishes Hair",
+      "Enhances Shine and Softness",
+      "Promotes Scalp Health"
+    ],
+    "href": "/"
+  },
+
+  {
+    "id": "HairColour1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Touchup (Majirel).webp",
+    "name": "Touchup (Majirel)",
+    "price": 1299,
+    "offerprice": 1599,
+    "features": [
+      "Refreshes Hair Color",
+      "Covers Gray Roots",
+      "Maintains Vibrant Hue"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairColour2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Touchup (Inoa).webp",
+    "name": "Touchup (Inoa)",
+    "price": 1499,
+    "offerprice": 1799,
+    "features": [
+      "Revives Hair Color",
+      "Covers Gray Roots",
+      "Provides Long-Lasting Color"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairColour3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Global (Base).webp",
+    "name": "Global (Base)",
+    "price": 3999,
+    "offerprice": 4999,
+    "features": [
+      "Full Hair Color Change",
+      "Uniform Color Application",
+      "Provides Consistent Hue"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairColour4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Global (Fashion).webp",
+    "name": "Global (Fashion)",
+    "price": 4499,
+    "offerprice": 5999,
+    "features": [
+      "Bold Color Change",
+      "Enhances Hair with Trendy Tones",
+      "Provides Uniform Fashionable Hue"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairColour5",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Balayage.webp",
+    "name": "Balayage",
+    "price": 5999,
+    "offerprice": 8499,
+    "features": [
+      "Creates Natural Highlights",
+      "Adds Dimension and Depth",
+      "Provides Sun-Kissed Look"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairColour6",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Highlight Crown.webp",
+    "name": "Highlight (Crown)",
+    "price": 4999,
+    "offerprice": 6999,
+    "features": [
+      "Brightens Crown Area",
+      "Adds Dimension and Shine",
+      "Creates Subtle Contrast"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairColour7",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Global highlight.webp",
+    "name": "Global Highlight",
+    "price": 6499,
+    "offerprice": 8499,
+    "features": [
+      "Uniform Hair Lightening",
+      "Adds Overall Dimension",
+      "Creates Bright, Consistent Highlights"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairColour8",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Ombre.webp",
+    "name": "Ombre",
+    "price": 6699,
+    "offerprice": 9499,
+    "features": [
+      "Seamless Color Transition",
+      "Adds Natural-Looking Depth",
+      "Creates Soft, Gradual Highlights"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "HairColour9",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Hair Care/Global Lowlight.webp",
+    "name": "Global Lowlight",
+    "price": 5299,
+    "offerprice": 7499,
+    "features": [
+      "Enhances Depth with Darker Tones",
+      "Adds Subtle Contrast",
+      "Creates Natural, Multi-Dimensional Look"
+    ],
+    "href": "/"
+  },
+
+  {
+    "id": "Mani1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Mani-Pedi/Regular Manicure.webp",
+    "name": "Regular Manicure",
+    "price": 599,
+    "offerprice": 799,
+    "features": ["Shapes and Smooths Nails", "Softens Hands and Cuticles", "Enhances Nail Appearance"],
+    "href" : "/"
+  },
+    {
+      "id": "Mani2",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Mani-Pedi/VLCC Manicure.webp",
+      "name": "VLCC  Manicure",
+      "price": 749,
+      "offerprice": 999,
+      "features": ["Hydrates and Softens Hands", "Nourishes Cuticles", "Enhances Nail Appearance"],
+      "href" : "/"
+    },
+    {
+      "id": "Mani3",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Mani-Pedi/Aroma Manicure.webp",
+      "name": "Aroma Manicure",
+      "price": 849,
+      "offerprice": 1199,
+      "features": ["Relaxing therapy", "Softens and Nourishes Hands", "Enhances Nail Health"],
+      "href" : "/"
+    },
+    {
+      "id": "Mani4",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Mani-Pedi/O3 Manicure.webp",
+      "name": "O3  Manicure",
+      "price": 949,
+      "offerprice": 1499,
+      "features": ["Deep Cleanses and Exfoliates", "Nourishes and Hydrates", "Revitalizes Nail Health"],
+      "href" : "/"
+
+    },
+
+
+    {
+      "id": "Massage1",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Polish & Massage/Masage/Full Body Massage.webp",
+      "name": "Full Body Massage",
+      "price": 1799,
+      "offerprice": 2199,
+      "features": ["Relieves Muscle Tension", "Promotes Relaxation", "Improves Blood Circulation"],
+      "href" : "/"
+    },
+    {
+      "id": "Massage2",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Polish & Massage/Masage/Hair Massage.webp",
+      "name": "Hair Massage",
+      "price": 699,
+      "offerprice": 999,
+      "features": ["Stimulates Scalp Circulation", "Strengthens Hair Roots", "Promotes Relaxation and Growth"],
+      "href" : "/"
+    },
+    {
+      "id": "Massage3",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Polish & Massage/Masage/Back Massage.webp",
+      "name": "Back Massage",
+      "price": 899,
+      "offerprice": 1299,
+      "features": ["Relieves Back Tension", "Eases Muscle Stiffness", "Improves Posture and Flexibility"],
+      "href" : "/"
+    },
+    {
+        "id": "Massage4",
+        "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Polish & Massage/Masage/Foot Massage.webp",
+        "name": "Foot Massage",
+        "price": 699,
+        "offerprice": 999,
+        "features": ["Relieves Foot Tension", "Improves Circulation", "Promotes Overall Relaxation"],
+        "href" : "/"
+      },{
+        "id": "Massage5",
+        "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Polish & Massage/Masage/Hand Massage.webp",
+        "name": "Hand Massage",
+        "price": 649,
+        "offerprice": 899,
+        "features": ["Relieves Hand Tension", "Soothes Sore Muscles", "Improves Circulation and Flexibility"],
+        "href" : "/"
+      },
+
+  {
+    "id": "ArtWork1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Nail Art/Chrome.webp",
+    "name": "Chrome",
+    "price": 500,
+    "offerprice": 700,
+    "features": [
+      "Shiny Metallic Finish",
+      "Adds Sleek Modern Look",
+      "Provides Reflective Shine"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "ArtWork2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Nail Art/3D Art.webp",
+    "name": "3D Art",
+    "price": 300,
+    "offerprice": 400,
+    "features": [
+      "Adds Texture and Depth",
+      "Creates Eye-Catching Designs",
+      "Enhances Nail Art with Dimension"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "ArtWork3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Nail Art/Marble Art.webp",
+    "name": "Marble Art",
+    "price": 500,
+    "offerprice": 700,
+    "features": [
+      "Elegant Swirling Patterns",
+      "Creates Unique Designs",
+      "Adds Sophisticated Touch"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "ArtWork4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Nail Art/Spider Art.webp",
+    "name": "Spider Design",
+    "price": 200,
+    "offerprice": 300,
+    "features": [
+      "Intricate Web Patterns",
+      "Adds Bold, Unique Look",
+      "Creates Eye-Catching Detail"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "ArtWork5",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Nail Art/Gel Polish.webp",
+    "name": "Gel Polish",
+    "price": 749,
+    "offerprice": 300,
+    "features": [
+      "Delivers Long-Lasting Shine",
+    "Provides Chip-Resistant Wear",
+    "Ensures Even, Vibrant Color"
+    ],
+    "href": "/"
+  },
+
+  {
+    "id": "NailExtension1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Nail Art/Nail Extension Gel.webp",
+    "name": "Nail Ext. Gel",
+    "price": 999,
+    "offerprice": 1250,
+    "features": [
+      "Creates Natural-Looking Length",
+      "Provides Strong, Durable Nails",
+      "Offers Flexible and Long-Lasting Wear"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "NailExtension2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Nail Art/Nail Extension Acrylic.webp",
+    "name": "Nail Ext. Acrylic",
+    "price": 1199,
+    "offerprice": 1599,
+    "features": [
+      "Strong and Durable",
+      "Provides Long-Lasting Length",
+      "Creates a Natural-Looking Finish"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "NailExtension3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Nail Art/Soft Gel Tip Ext.webp",
+    "name": "Soft Gel Tip Ext.",
+    "price": 999,
+    "offerprice": 1280,
+    "features": [
+      "Flexible and Lightweight",
+      "Creates Natural-Length Nails",
+      "Provides Comfortable Wear"
+    ],
+    "href": "/"
+  },
+  {
+    "id": "NailExtension4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Nail Art/Acrylic Overlay.webp",
+    "name": "Acrylic Overlay",
+    "price": 500,
+    "offerprice": 700,
+    "features": [
+     "Adds Strength to Natural Nails",
+    "Creates Smooth, Even Surface",
+    "Offers Long-Lasting Nail Enhancement"
+    ],
+
+    "href": "/"
+  },
+
+
+    {
+      "id": "Party1",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Party/Birthday Makeup.webp",
+      "name": "Birthday Makeup",
+      "price": 1299,
+      "offerprice": 1500,
+      "features": ["Including Advanvce Hairdo", "Enhances Facial Features", "Provides Glamorous Look"],
+      "href" : "/"
+    },
+    {
+      "id": "Party2",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Party/Forever52 & Krylon.webp",
+      "name": "Forever52 & Krylon",
+      "price": 2499,
+      "offerprice": 3000,
+      "features": ["Including Advanvce Hairdo", "High-Quality, Long-Lasting", "Provides Professional Finish"],
+      "href" : "/"
+    },
+    {
+      "id": "Party3",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Party/Mac Makeup.webp",
+      "name": "Mac Makeup",
+      "price": 3499,
+      "offerprice": 4000,
+      "features": ["Including Advanvce Hairdo", "Flawless Coverage", "High-Performance Formula"],
+      "href" : "/"
+    },
+    {
+      "id": "Party4",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Wedding Package/Party/Airbrush Makeup.webp",
+      "name": "Airbrush Makeup",
+      "price": 4999,
+      "offerprice": 7000,
+      "features": ["Including Advanvce Hairdo", "Smooth, Even Application", "Long-Lasting Finish"],
+      "href" : "/"
+
+    },
+
+
+    {
+      "id": "Pedi1",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Mani-Pedi/Padifai Pedicure.webp",
+      "name": "Regular Pedicure",
+      "price": 699,
+      "offerprice": 949,
+      "features": ["Revitalizes Tired Feet", "Softens and Exfoliates", "Enhances Nail and Skin Health"],
+      "href" : "/"
+    },
+      {
+        "id": "Pedi2",
+        "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Mani-Pedi/VLCC Pedicure.webp",
+        "name": "VLCC Pedicure",
+        "price": 849,
+        "offerprice": 1099,
+        "features": ["Deep Cleanses Feet", "Nourishes and Softens Skin", "Improves Nail Health and Appearance"],
+        "href" : "/"
+      },
+      {
+        "id": "Pedi3",
+        "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Mani-Pedi/Aroma Pedicure.webp",
+        "name": "Aroma Pedicure",
+        "price": 999,
+        "offerprice": 1299,
+        "features": ["Relaxing Aromatherapy", "Softens and Hydrates Feet", "Enhances Nail and Skin Health"],
+        "href" : "/"
+      },
+      {
+        "id": "Pedi4",
+        "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Mani-Pedi/O3 Pedicure.webp",
+        "name": "O3 Pedicure",
+        "price": 1249,
+        "offerprice": 1599,
+        "features": ["Deep Cleanses and Exfoliates", "Nourishes and Hydrates Feet", "Revitalizes and Refreshes Skin"],
+        "href" : "/"
+
+    },
+
+
+    {
+      "id": "Polishing1",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Polish & Massage/Polish/Full Body Polishing.webp",
+      "name": "Full Body Polishing",
+      "price": 1999,
+      "offerprice": 2499,
+      "features": ["Exfoliates and Smooths Skin", "Brightens Overall Complexion", "Removes Dead Skin Cells"],
+      "href" : "/"
+    },
+    {
+      "id": "Polishing2",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Polish & Massage/Polish/Full Arms + Legs Polishing.webp",
+      "name": "Full Arms + Legs Polishing",
+      "price": 1399,
+      "offerprice": 1699,
+      "features": ["Exfoliates and Smooths Skin", "Brightens Arms and Legs", "Removes Dead Skin Cells"],
+      "href" : "/"
+    },
+    {
+      "id": "Polishing3",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Polish & Massage/Polish/Full Back + Arms Polishing.webp",
+      "name": "Full Back + Arms Polishing",
+      "price": 1599,
+      "offerprice": 1999,
+      "features": ["Exfoliates and Smooths Skin", "Brightens Back and Arms", "Removes Dead Skin Cells"],
+
+      "href" : "/"
+    },
+    
+
+    {
+      "id": "Threading1",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Eyebrow Threading.webp",
+      "name": "Eyebrow Threading",
+      "price": 89,
+      "offerprice": 99,
+      "features": ["Shapes and Defines Eyebrows", "Removes Unwanted Hair", "Creates Clean, Precise Lines"],
+      "href" : "/"
+    },
+    {
+      "id": "Threading2",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Upper Lips Threading.webp",
+      "name": "Upper Lips Threading",
+      "price": 49,
+      "offerprice": 79,
+      "features": ["Removes Upper Lip Hair", "Provides Smooth Finish", "Defines Lip Contour"],
+      "href" : "/"
+    },
+    {
+      "id": "Threading3",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Chin Threading.webp",
+      "name": "Chin Threading",
+      "price": 59,
+      "offerprice": 89,
+      "features": ["Removes Chin Hair", "Provides Smooth, Clean Finish", "Defines Chin Contour"],
+      "href" : "/"
+    },
+    {
+      "id": "Threading4",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Threading & Wax/Forehead Threading.webp",
+      "name": "Forehead Threading",
+      "price": 89,
+      "offerprice": 99,
+
+      "features": ["Removes Forehead Hair", "Creates Smooth Appearance", "Defines Forehead Shape"],
+      "href" : "/"
+    },
+
+    {
+      "id": "WaxingNormal1",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Underarms Wax.webp",
+      "name": "Under Arms Wax (Normal)",
+      "price": 299,
+      "offerprice": 449,
+      "features": ["Removes Underarm Hair", "Provides Smooth Skin", "Reduces Hair Regrowth"],
+      "href" : "/"
+    },
+    {
+      "id": "WaxingNormal2",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Full Arms Wax.webp",
+      "name": "Full Arms Wax (Normal)",
+      "price": 499,
+      "offerprice": 599,
+      "features": ["Removes Full Arm Hair", "Provides Smooth, Hair-Free Skin", "Reduces Hair Regrowth"],
+      "href" : "/"
+    },
+    {
+      "id": "WaxingNormal3",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Full Legs Wax.webp",
+      "name": "Full Legs Wax (Normal)",
+      "price": 599,
+      "offerprice": 699,
+      "features": ["Removes Full Leg Hair", "Provides Smooth, Hair-Free Skin", "Reduces Hair Regrowth"],
+      "href" : "/"
+    },
+    {
+      "id": "WaxingNormal4",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Back Wax.webp",
+      "name": "Full Back Wax (Normal)",
+      "price": 999,
+      "offerprice": 1299,
+      "features": ["Removes Full Back Hair", "Provides Smooth, Hair-Free Skin", "Reduces Hair Regrowth"],
+      "href" : "/"
+    },
+    {
+      "id": "WaxingNormal5",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Bikini Wax.webp",
+      "name": "Bikini Wax (Normal)",
+      "price": 549,
+      "offerprice": 699,
+      "features": ["Removes Bikini Area Hair", "Provides Smooth, Clean Finish", "Reduces Hair Regrowth"],
+      "href" : "/"
+    },
+    {
+      "id": "WaxingNormal6",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Stomach Wax.webp",
+      "name": "Stomach Wax (Normal)",
+      "price": 649,
+      "offerprice": 799,
+      "features": ["Removes Stomach Hair", "Provides Smooth Skin", "Reduces Hair Regrowth"],
+      "href" : "/"
+    },
+    {
+      "id": "WaxingNormal7",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Full Body Wax.webp",
+      "name": "Full Body Wax (Normal)",
+      "price": 1599,
+      "offerprice": 1999,
+      "features": ["Removes Hair from Entire Body", "Provides Smooth, Hair-Free Skin", "Reduces Overall Hair Regrowth"],
+
+      "href" : "/"
+    },
+  
+
+    {
+      "id": "WaxingRica1",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Underarms Wax.webp",
+      "name": "Under Arms Wax",
+      "price": 449,
+      "offerprice": 549,
+      "features": ["Removes Underarm Hair", "Provides Smooth Skin", "Reduces Hair Regrowth"],
+      "href" : "/"
+    },
+    {
+      "id": "WaxingRica2",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Full Arms Wax.webp",
+      "name": "Full Arms Wax",
+      "price": 599,
+      "offerprice": 799,
+      "features": ["Removes Full Arm Hair", "Provides Smooth, Hair-Free Skin", "Reduces Hair Regrowth"],
+      "href" : "/"
+    },
+    {
+      "id": "WaxingRica3",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Full Legs Wax.webp",
+      "name": "Full Legs Wax",
+      "price": 749,
+      "offerprice": 899,
+      "features": ["Removes Full Leg Hair", "Provides Smooth, Hair-Free Skin", "Reduces Hair Regrowth"],
+      "href" : "/"
+    },
+    {
+      "id": "WaxingRica4",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Back Wax.webp",
+      "name": "Full Back Wax",
+      "price": 799,
+      "offerprice": 949,
+      "features": ["Removes Full Back Hair", "Provides Smooth, Hair-Free Skin", "Reduces Hair Regrowth"],
+      "href" : "/"
+    },
+    {
+      "id": "WaxingRica5",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Bikini Wax.webp",
+      "name": "Bikini Wax",
+      "price": 1199,
+      "offerprice": 1499,
+      "features": ["Removes Bikini Area Hair", "Provides Smooth, Clean Finish", "Reduces Hair Regrowth"],
+      "href" : "/"
+    },
+    {
+      "id": "WaxingRica6",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Stomach Wax.webp",
+      "name": "Stomach Wax",
+      "price": 649,
+      "offerprice": 999,
+      "features": ["Removes Stomach Hair", "Provides Smooth Skin", "Reduces Hair Regrowth"],
+      "href" : "/"
+    },
+    {
+      "id": "WaxingRica7",
+      "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Full Body Wax.webp",
+      "name": "Full Body Wax",
+      "price": 1899,
+      "offerprice": 2499,
+      "features": ["Removes Hair from Entire Body", "Provides Smooth, Hair-Free Skin", "Reduces Overall Hair Regrowth"],
+      "href" : "/"
+    }
+  ]
+  

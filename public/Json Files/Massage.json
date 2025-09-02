@@ -1,0 +1,77 @@
+[
+  {
+    "id": "Massage1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Polish & Massage/Masage/Full Body Massage.webp",
+    "name": "Full Body Massage",
+    "price": 1799,
+    "offerprice": 2199,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Relieves Muscle Tension",
+      "Promotes Relaxation",
+      "Improves Blood Circulation"
+    ],
+    "href": "/service/body-polishing"
+  },
+  {
+    "id": "Massage2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Polish & Massage/Masage/Hair Massage.webp",
+    "name": "Hair Massage",
+    "price": 699,
+    "offerprice": 999,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Stimulates Scalp Circulation",
+      "Strengthens Hair Roots",
+      "Promotes Relaxation and Growth"
+    ],
+    "href": "/service/body-polishing"
+  },
+  {
+    "id": "Massage3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Polish & Massage/Masage/Back Massage.webp",
+    "name": "Back Massage",
+    "price": 899,
+    "offerprice": 1299,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Relieves Back Tension",
+      "Eases Muscle Stiffness",
+      "Improves Posture and Flexibility"
+    ],
+    "href": "/service/body-polishing"
+  },
+  {
+    "id": "Massage4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Polish & Massage/Masage/Foot Massage.webp",
+    "name": "Foot Massage",
+    "price": 699,
+    "offerprice": 999,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Relieves Foot Tension",
+      "Improves Circulation",
+      "Promotes Overall Relaxation"
+    ],
+    "href": "/service/body-polishing"
+  },
+  {
+    "id": "Massage5",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Polish & Massage/Masage/Hand Massage.webp",
+    "name": "Hand Massage",
+    "price": 649,
+    "offerprice": 899,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Relieves Hand Tension",
+      "Soothes Sore Muscles",
+      "Improves Circulation and Flexibility"
+    ],
+    "href": "/service/body-polishing"
+  }
+]

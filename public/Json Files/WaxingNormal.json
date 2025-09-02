@@ -1,0 +1,107 @@
+[
+  {
+    "id": "WaxingNormal1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Underarms Wax.webp",
+    "name": "Under Arms Wax (Normal)",
+    "price": 299,
+    "offerprice": 449,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Underarm Hair",
+      "Provides Smooth Skin",
+      "Reduces Hair Regrowth"
+    ],
+    "href": "/service/waxing"
+  },
+  {
+    "id": "WaxingNormal2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Full Arms Wax.webp",
+    "name": "Full Arms Wax (Normal)",
+    "price": 499,
+    "offerprice": 599,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Full Arm Hair",
+      "Provides Smooth, Hair-Free Skin",
+      "Reduces Hair Regrowth"
+    ],
+    "href": "/service/waxing"
+  },
+  {
+    "id": "WaxingNormal3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Full Legs Wax.webp",
+    "name": "Full Legs Wax (Normal)",
+    "price": 599,
+    "offerprice": 699,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Full Leg Hair",
+      "Provides Smooth, Hair-Free Skin",
+      "Reduces Hair Regrowth"
+    ],
+    "href": "/service/waxing"
+  },
+  {
+    "id": "WaxingNormal4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Back Wax.webp",
+    "name": "Full Back Wax (Normal)",
+    "price": 999,
+    "offerprice": 1299,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Full Back Hair",
+      "Provides Smooth, Hair-Free Skin",
+      "Reduces Hair Regrowth"
+    ],
+    "href": "/service/waxing"
+  },
+  {
+    "id": "WaxingNormal5",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Bikini Wax.webp",
+    "name": "Bikini Wax (Normal)",
+    "price": 549,
+    "offerprice": 699,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Bikini Area Hair",
+      "Provides Smooth, Clean Finish",
+      "Reduces Hair Regrowth"
+    ],
+    "href": "/service/waxing"
+  },
+  {
+    "id": "WaxingNormal6",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Stomach Wax.webp",
+    "name": "Stomach Wax (Normal)",
+    "price": 649,
+    "offerprice": 799,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Stomach Hair",
+      "Provides Smooth Skin",
+      "Reduces Hair Regrowth"
+    ],
+    "href": "/service/waxing"
+  },
+  {
+    "id": "WaxingNormal7",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Waxing/Full Body Wax.webp",
+    "name": "Full Body Wax (Normal)",
+    "price": 1599,
+    "offerprice": 1999,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Removes Hair from Entire Body",
+      "Provides Smooth, Hair-Free Skin",
+      "Reduces Overall Hair Regrowth"
+    ],
+    "href": "/service/waxing"
+  }
+]

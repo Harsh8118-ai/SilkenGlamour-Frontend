@@ -1,0 +1,152 @@
+[
+    {
+        "id": "Dtan1",
+        "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Face + Neck O3 D-Tan.webp",
+        "name": "Face + Neck O3 De-Tan",
+        "price": 749,
+        "offerprice": 849,
+        "discount": "30%",
+        "time": "10 min",
+        "href": "/service/bleach-dtan",
+        "features": [
+            "Reduces Tan Effectively",
+            "Brightens Face and Neck",
+            "Evens Skin Tone"
+        ]
+    },
+    {
+        "id": "Dtan2",
+        "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Full Body O3 D-Tan.webp",
+        "name": "Full Body O3 De-Tan",
+        "price": 2499,
+        "offerprice": 2999,
+        "discount": "30%",
+        "time": "10 min",
+        "href": "/service/bleach-dtan",
+        "features": [
+            "Reduces Overall Tan",
+            "Brightens Full Body",
+            "Evens Out Skin Tone"
+        ]
+    },
+    {
+        "id": "Dtan3",
+        "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Full Arms O3 D-Tan.webp",
+        "name": "Full Arms O3 De-Tan",
+        "price": 899,
+        "offerprice": 1049,
+        "discount": "30%",
+        "time": "10 min",
+        "href": "/service/bleach-dtan",
+        "features": [
+            "Reduces Arm Tan",
+            "Brightens Skin Tone",
+            "Evens Out Dark Spots"
+        ]
+    },
+    {
+        "id": "Dtan4",
+        "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Full Legs O3 D-Tan.webp",
+        "name": "Full Legs O3 De-Tan",
+        "price": 949,
+        "offerprice": 1099,
+        "discount": "30%",
+        "time": "10 min",
+        "href": "/service/bleach-dtan",
+        "features": [
+            "Reduces Leg Tan",
+            "Brightens Skin Tone",
+            "Evens Out Dark Spots"
+        ]
+    },
+    {
+        "id": "Dtan5",
+        "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Full Back O3 D-Tan.webp",
+        "name": "Full Back O3 De-Tan",
+        "price": 999,
+        "offerprice": 1149,
+        "discount": "30%",
+        "time": "10 min",
+        "href": "/service/bleach-dtan",
+        "features": [
+            "Reduces Back Tan",
+            "Brightens Skin Tone",
+            "Evens Out Discoloration"
+        ]
+    },
+    {
+        "id": "Dtan6",
+        "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Face + Neck Raga D-Tan.webp",
+        "name": "Face + Neck Raga De-Tan",
+        "price": 599,
+        "offerprice": 699,
+        "discount": "30%",
+        "time": "10 min",
+        "href": "/service/bleach-dtan",
+        "features": [
+            "Reduces Tan Effectively",
+            "Brightens Face and Neck",
+            "Evens Skin Tone"
+        ]
+    },
+    {
+        "id": "Dtan7",
+        "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Full Body Raga D-Tan.webp",
+        "name": "Full Body Raga De-Tan",
+        "price": 2299,
+        "offerprice": 2699,
+        "discount": "30%",
+        "time": "10 min",
+        "href": "/service/bleach-dtan",
+        "features": [
+            "Reduces Overall Tan",
+            "Brightens Full Body",
+            "Evens Out Skin Tone"
+        ]
+    },
+    {
+        "id": "Dtan8",
+        "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Full Arms Raga D-Tan.webp",
+        "name": "Full Arms Raga De-Tan",
+        "price": 749,
+        "offerprice": 879,
+        "discount": "30%",
+        "time": "10 min",
+        "href": "/service/bleach-dtan",
+        "features": [
+            "Reduces Arm Tan",
+            "Brightens Skin Tone",
+            "Evens Out Dark Spots"
+        ]
+    },
+    {
+        "id": "Dtan9",
+        "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Full Legs Raga D-Tan.webp",
+        "name": "Full Legs Raga De-Tan",
+        "price": 929,
+        "offerprice": 1129,
+        "discount": "30%",
+        "time": "10 min",
+        "href": "/service/bleach-dtan",
+        "features": [
+            "Reduces Leg Tan",
+            "Brightens Skin Tone",
+            "Evens Out Dark Spots"
+        ]
+    },
+    {
+        "id": "Dtan10",
+        "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Bleach & D-Tan/DTan/Full Back Raga D-Tan.webp",
+        "name": "Full Back Raga De-Tan",
+        "price": 989,
+        "offerprice": 1099,
+        "discount": "30%",
+        "time": "10 min",
+        "href": "/service/bleach-dtan",
+        "features": [
+            "Reduces Back Tan",
+            "Brightens Skin Tone",
+            "Evens Out Discoloration"
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "Facial1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/Sara Gold Facial.webp",
+    "name": "Sara Gold Facial",
+    "price": 1899,
+    "offerprice": 2499,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Boosts Skin Elasticity",
+      "Enhances Glow and Shine",
+      "Rejuvenates Tired Skin"
+    ],
+    "href": "/service/facial-cleanup"
+  },
+  {
+    "id": "Facial2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/Cheryl's Facial.webp",
+    "name": "Cheryl's Facial",
+    "price": 2199,
+    "offerprice": 2699,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Brightens Dull Skin",
+      "Deeply Moisturizes",
+      "Reduces Blemishes and Spots"
+    ],
+    "href": "/service/facial-cleanup"
+  },
+  {
+    "id": "Facial3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/O3 Facial.webp",
+    "name": "O3 Facial",
+    "price": 2599,
+    "offerprice": 3499,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Deeply Cleanses Skin",
+      "Boosts Skin Radiance",
+      "Reduces Fine Lines"
+    ],
+    "href": "/service/facial-cleanup"
+  },
+  {
+    "id": "Facial4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/Casmara Facial.webp",
+    "name": "Casmara Facial",
+    "price": 3199,
+    "offerprice": 3999,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Nourishes and Rejuvenates",
+      "Balances Skin Hydration",
+      "Promotes Firmness and Glow"
+    ],
+    "href": "/service/facial-cleanup"
+  },
+  {
+    "id": "Facial5",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Facial & Cleanup/Bridal Glow Facial.webp",
+    "name": "Bridal Glow Facial",
+    "price": 3399,
+    "offerprice": 3999,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Enhances Natural Radiance",
+      "Evens Skin Tone",
+      "Boosts Long-Lasting Glow"
+    ],
+    "href": "/service/facial-cleanup"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "NailExtension1",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Nail Art/Nail Extension Gel.webp",
+    "name": "Nail Ext. Gel",
+    "price": 999,
+    "offerprice": 1250,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Creates Natural-Looking Length",
+      "Provides Strong, Durable Nails",
+      "Offers Flexible and Long-Lasting Wear"
+    ],
+    "href": "/service/nailart"
+  },
+  {
+    "id": "NailExtension2",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Nail Art/Nail Extension Acrylic.webp",
+    "name": "Nail Ext. Acrylic",
+    "price": 1199,
+    "offerprice": 1599,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Strong and Durable",
+      "Provides Long-Lasting Length",
+      "Creates a Natural-Looking Finish"
+    ],
+    "href": "/service/nailart"
+  },
+  {
+    "id": "NailExtension3",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Nail Art/Soft Gel Tip Ext.webp",
+    "name": "Soft Gel Tip Ext.",
+    "price": 999,
+    "offerprice": 1280,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+      "Flexible and Lightweight",
+      "Creates Natural-Length Nails",
+      "Provides Comfortable Wear"
+    ],
+    "href": "/service/nailart"
+  },
+  {
+    "id": "NailExtension4",
+    "image": "https://ik.imagekit.io/silkenglamour/public/Services/Service Card/Nail Art/Acrylic Overlay.webp",
+    "name": "Acrylic Overlay",
+    "price": 500,
+    "offerprice": 700,
+    "discount": "30%",
+    "time": "10 min",
+    "features": [
+     "Adds Strength to Natural Nails",
+    "Creates Smooth, Even Surface",
+    "Offers Long-Lasting Nail Enhancement"
+    ],
+    "href": "/service/nailart"
+  }
+]
