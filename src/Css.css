@@ -1,0 +1,156 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  box-shadow: #2E2117;
+}
+
+#About-P{
+    font-family: 'Poppins','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+#logo {
+  font-family: "Baskervville SC", serif;
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap; /* Ensures instant rendering with a fallback font */
+}
+
+/* Custom Toastify CSS */
+
+.Toastify__toast--custom {
+  background: #2E2117; /* Main background color */
+  color: #796855; /* Text color */
+  font-size: large;
+  background-color: #2E2117;
+  box-shadow: #2E2117;
+  border-radius: 3px;
+  font-family: 'Poppins','Helvetica Neue', 'Helvetica,Arial', 'sans-serif';
+  font-style: bold;
+}
+
+
+.Toastify__toast--default {
+  background: #796855; /* Main background color */
+  color: #2E2117; /* Text color */
+}
+
+.Toastify__toast--info {
+  background: #4c3726; /* Informational toast background color */
+}
+
+.Toastify__toast--success {
+  background: #4c3726; /* Success toast background color */
+  color: #CBB59F;
+}
+
+.Toastify__toast--warning {
+  background: #CBB59F; /* Warning toast background color */
+}
+
+.Toastify__toast--error {
+  background: #2E2117; /* Error toast background color */
+  color: #CBB59F; /* Text color for error toast */
+}
+
+/* Customizing the close button */
+.Toastify__close-button {
+  color: #CBB59F;
+}
+
+/* Customizing the progress bar */
+.Toastify__progress-bar {
+  background: #291500;
+}
+
+
+/* Add this to your global CSS or Tailwind config */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+
+/* Scrollbar for WebKit browsers (Chrome, Edge, Safari) */
+::-webkit-scrollbar {
+  width: 8px; /* Scrollbar width */
+}
+
+::-webkit-scrollbar-track {
+  background: #C6B198; /* Track color */
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #796855; /* Thumb color */
+  border-radius: 10px;
+  /* transition: background 0.3s; */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #d4ac0d; /* Darker on hover */
+}
+
+
+/* Global CSS: index.css or App.css */
+.custom-datepicker {
+  background-color: #fff4e6 ;
+  border-radius: 10px;
+  padding: 10px;
+  width: 100% ;
+  display: flex;
+  justify-content: center;
+}
+
+/* Optional: style the header and days */
+.custom-datepicker .react-datepicker__header {
+  background-color: #fff4e6 ;
+  border-bottom: none;
+}
+
+.custom-datepicker .react-datepicker__day {
+  color: #6b3f1d;
+}
+
+.custom-datepicker .react-datepicker__day--selected {
+  background-color: #6b3f1d ;
+  color: #fff4e6 ;
+}
+
+.custom-datepicker .react-datepicker__month-container {
+  width: 100%;
+}
+
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.luxury-gradient {
+  background: linear-gradient(135deg, #3a2d1b 0%, #38301bcf 100%);
+}
+
+.hover-glow {
+  transition: all 0.3s ease;
+}
+
+.hover-glow:hover {
+  box-shadow: 0 0 20px rgba(194, 159, 109, 0.3);
+  transform: translateY(-2px);
+}
+
+.pill-button {
+  border-radius: 50px;
+  transition: all 0.3s ease;
+}
+
+.pill-button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 15px rgba(194, 159, 109, 0.2);
+}
