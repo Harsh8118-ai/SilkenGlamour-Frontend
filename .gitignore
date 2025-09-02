@@ -52,3 +52,6 @@ vercel.json
 # Ignore environment files
 .env
 .env.*
+.env
+.env.local
+.env.*.local
