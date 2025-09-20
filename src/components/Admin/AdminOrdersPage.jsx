@@ -52,6 +52,9 @@ export default function AdminOrdersPage() {
 
   const statusOptions = ['pending', 'confirmed', 'completed', 'cancelled'];
 
+  const BASE_URL = import.meta.env.VITE_BACKEND_URL;
+
+
   const predefinedMessages = [
     "Your order has been confirmed! Our beautician will reach on time. Thank you for booking with Silken Glamour 💇‍♀️✨",
     "Hi! Your service booking is confirmed. Please keep your surroundings clean and payment ready. ✨",
@@ -65,7 +68,7 @@ export default function AdminOrdersPage() {
   useEffect(() => {
     const fetchOrders = async () => {
       try {
-        const res = await fetch("http://localhost:5000/api/orders")
+        const res = await fetch(`${BASE_URL}/orders`)
         if (!res.ok) throw new Error("Failed to fetch orders")
         const data = await res.json()
         setOrders(data)
@@ -132,7 +135,7 @@ export default function AdminOrdersPage() {
     try {
       // Use orderId from the selectedOrder, which corresponds to your backend
       const res = await fetch(
-        `http://localhost:5000/api/orders/${selectedOrder.orderId}/track`,
+        `${BASE_URL}/orders/${selectedOrder.orderId}/track`,
         {
           method: "PUT",
           headers: { "Content-Type": "application/json" },

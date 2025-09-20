@@ -19,11 +19,14 @@ export default function AdminUsersPage() {
     const [selectedUser, setSelectedUser] = useState(null);
     const [isUserModalOpen, setIsUserModalOpen] = useState(false);
 
+    const BASE_URL = import.meta.env.VITE_BACKEND_URL;
+
+
     useEffect(() => {
         const fetchUsers = async () => {
             const token = localStorage.getItem("token");
             try {
-                const response = await fetch("http://localhost:5000/api/admin/dashboard/user", {
+                const response = await fetch(`${BASE_URL}/admin/dashboard/user`, {
                     method: "GET",
                     headers: {
                         "Content-Type": "application/json",

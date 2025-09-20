@@ -8,10 +8,13 @@ const OrderHistory = () => {
   const navigate = useNavigate();
   const userId = localStorage.getItem('userId');
 
+    const BASE_URL = import.meta.env.VITE_BACKEND_URL;
+
+
   useEffect(() => {
     const fetchOrders = async () => {
       try {
-        const res = await fetch(`http://localhost:5000/api/orders/order-history/${userId}`);
+        const res = await fetch(`${BASE_URL}/orders/order-history/${userId}`);
         const data = await res.json();
 
         if (!res.ok) throw new Error();

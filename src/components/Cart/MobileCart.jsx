@@ -18,6 +18,9 @@ const MobileCart = ({ closeCart }) => {
   const { user } = useAuth();
   const { isLoggedIn } = useAuth();
 
+  const BASE_URL = import.meta.env.VITE_BACKEND_URL;
+
+
   const visitingCharge = 100;
   const totalPriceWithVisitingCharge = totalPrice + visitingCharge;
 
@@ -50,7 +53,7 @@ const MobileCart = ({ closeCart }) => {
     const orderPayload = {
       orderId,
       userId: user._id,
-      username: user.username,  
+      username: user.username,
       userPhone: user.mobileNumber,
       services: cartItems.map((item) => ({
         serviceId: item._id,
@@ -82,7 +85,7 @@ const MobileCart = ({ closeCart }) => {
 
 
     try {
-      const res = await fetch("http://localhost:5000/api/orders", {
+      const res = await fetch(`${BASE_URL}/orders`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(orderPayload),

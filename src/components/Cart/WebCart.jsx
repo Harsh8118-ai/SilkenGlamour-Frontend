@@ -15,6 +15,9 @@ const WebCart = ({ closeCart }) => {
   const [appointmentDate, setAppointmentDate] = useState('');
   const [appointmentSlot, setAppointmentSlot] = useState('');
 
+  const BASE_URL = import.meta.env.VITE_BACKEND_URL;
+
+
   const navigate = useNavigate();
   const visitingCharge = 100;
   const totalPriceWithVisitingCharge = totalPrice + visitingCharge;
@@ -79,7 +82,7 @@ const WebCart = ({ closeCart }) => {
     };
 
     try {
-      const res = await fetch("http://localhost:5000/api/orders", {
+      const res = await fetch(`${BASE_URL}/orders`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(orderPayload),

@@ -8,10 +8,13 @@ const TrackOrder = () => {
   const [order, setOrder] = useState(null);
   const navigate = useNavigate();
 
+  const BASE_URL = import.meta.env.VITE_BACKEND_URL;
+
+
   useEffect(() => {
     const fetchOrder = async () => {
       try {
-        const res = await fetch(`http://localhost:5000/api/orders/${userId}/${orderId}`);
+        const res = await fetch(`${BASE_URL}/orders/${userId}/${orderId}`);
         const data = await res.json();
 
         if (!res.ok || !data) {
@@ -106,9 +109,8 @@ const TrackOrder = () => {
               <div key={index} className="text-sm">
                 <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-1">
                   <span
-                    className={`font-semibold ${
-                      index === 0 ? "text-green-600" : "text-yellow-600"
-                    }`}
+                    className={`font-semibold ${index === 0 ? "text-green-600" : "text-yellow-600"
+                      }`}
                   >
                     {track.status.replace('_', ' ').replace(/\b\w/g, (c) => c.toUpperCase())}
                   </span>

@@ -18,8 +18,10 @@ export default function AdminDashboard() {
         const fetchDashboardData = async () => {
             try {
                 const token = localStorage.getItem("token");
+                const BASE_URL = import.meta.env.VITE_BACKEND_URL;
 
-                const res = await fetch("http://localhost:5000/api/admin/dashboard", {
+
+                const res = await fetch(`${BASE_URL}/admin/dashboard`, {
                     method: "GET",
                     headers: {
                         "Content-Type": "application/json",
@@ -231,7 +233,7 @@ export default function AdminDashboard() {
                                             <p className="font-bold text-amber-900">₹{order.amount}</p>
                                         </div>
                                     </div>
-                                ))} 
+                                ))}
                             </div>
                         </CardContent>
                     </Card>

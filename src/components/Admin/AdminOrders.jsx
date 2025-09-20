@@ -5,11 +5,13 @@ const statusOptions = ['pending', 'confirmed', 'assigned', 'in_progress', 'compl
 
 const AdminOrders = () => {
     const [orders, setOrders] = useState([]);
+    const BASE_URL = import.meta.env.VITE_BACKEND_URL;
+    
 
     useEffect(() => {
         const fetchOrders = async () => {
             try {
-                const res = await fetch('http://localhost:5000/api/orders');
+                const res = await fetch('${BASE_URL}/orders');
                 const data = await res.json();
                 setOrders(data);
             } catch (err) {
@@ -26,7 +28,7 @@ const AdminOrders = () => {
         }
 
         try {
-            const res = await fetch(`http://localhost:5000/api/orders/${orderId}/track`, {
+            const res = await fetch(`${BASE_URL}/orders/${orderId}/track`, {
                 method: 'PUT',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
