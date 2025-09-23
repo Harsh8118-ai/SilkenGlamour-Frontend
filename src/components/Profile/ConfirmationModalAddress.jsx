@@ -118,11 +118,12 @@ const ConfirmationModalAddress = ({ data, isOpen, onClose }) => {
 
             if (response.ok) {
                 toast.success("Address Updated Successfully");
-                navigate("/");
+                navigate("/profile");
                 setTimeout(() => window.location.reload(), 500);
             } else {
                 toast.error(data.message || "Failed to update address");
                 console.log("Response", data);
+                navigate("/profile");
             }
         } catch (error) {
             console.log("Error occur while Updating Address", error.message);

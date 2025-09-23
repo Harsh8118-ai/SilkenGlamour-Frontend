@@ -4,10 +4,12 @@ import { jwtDecode } from "jwt-decode";
 import axios from "axios";
 import ConfirmationModalAddress from "../components/Profile/ConfirmationModalAddress";
 import ConfirmationModalMobile from "../components/Profile/ConfirmationModalMobile"; // 👈 import mobile modal
+import { useAuth } from "./auth";
 
 const BASE_URL = import.meta.env.VITE_BACKEND_URL;
 
 const AuthSuccess = () => {
+  const { storeTokenInLS } = useAuth();
   const [searchParams] = useSearchParams();
   const navigate = useNavigate();
 
@@ -23,7 +25,8 @@ const AuthSuccess = () => {
 
     if (tokenFromURL) {
       try {
-        localStorage.setItem("token", tokenFromURL);
+        // localStorage.setItem("token", tokenFromURL);
+        storeTokenInLS(tokenFromURL);
         setToken(tokenFromURL);
         const decoded = jwtDecode(tokenFromURL);
         const userId = decoded.id;
