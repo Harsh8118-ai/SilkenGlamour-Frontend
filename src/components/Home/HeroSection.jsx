@@ -71,7 +71,7 @@ export default function HeroSection() {
             </div>
           </div>
 
-          <h1 className="text-3xl sm:text-5xl font-bold text-black sm:mb-16 mb-5 font-Logo">
+          <h1 className="text-3xl sm:text-5xl font-bold text-black sm:mb-16  font-Logo">
             Welcome to<br /> Luxurious Home Salon
           </h1>
           <div className='flex items-center justify-center w-full gap-10'>
@@ -85,6 +85,7 @@ export default function HeroSection() {
                 />
               </Link></div>
 
+              <div className='mt-32 hidden sm:block'>
             <Link to="/service">
               <img
                 src={`${import.meta.env.VITE_IMAGEKIT_BASE_URL}/Home/Home Main.jpg`}
@@ -95,7 +96,7 @@ export default function HeroSection() {
                 decoding="async"
                 fetchpriority="high"
               />
-            </Link>
+            </Link></div>
 
 
 
