@@ -13,6 +13,7 @@ import ReviewComponent from '../Review/ReviewComponent';
 import Review from '../Review/Review';
 import ReviewStats from '../Review/ReviewStats';
 import LookingFor from './LookingFor';
+import Hero  from '../Mehndi/Hero';
 
 
 export default function Home() {
@@ -230,6 +231,11 @@ export default function Home() {
 
         {/* HERO SECTION */}
         <HeroSection />
+
+        {/* Mehndi  */}
+        <div className='rounded-3xl m-1 mt-3'>
+          <Hero />
+        </div>
 
         <div className='bg-MainBGColorYellow rounded-3xl m-1 mt-3'>
           <LookingFor />

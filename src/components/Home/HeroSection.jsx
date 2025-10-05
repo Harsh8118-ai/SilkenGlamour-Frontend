@@ -108,9 +108,6 @@ export default function HeroSection() {
                 />
               </Link></div>
           </div>
-        <h1 className="text-3xl sm:text-5xl font-bold text-black sm:mb-16 mb-2 mt-5 font-Logo">
-          India’s Best Premium Home Salon for Women
-          </h1>
         </div>
       </div>
     </>
