@@ -45,10 +45,18 @@ export function BookingModal({ isOpen, onClose }) {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+
     if (step === 1) {
+      // Basic validations
+      if (!formData.serviceType) {
+        alert("Please fill the Service Type .");
+        return;
+      }
+
       if (!validatePhone(formData.phone)) {
         return;
       }
+
       console.log("[v0] Analytics: booking_initiated", formData);
       setStep(2);
     } else if (step === 2 && selectedSlot) {
