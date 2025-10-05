@@ -67,11 +67,19 @@
 /* Add this to your global CSS or Tailwind config */
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
+  -webkit-overflow-scrolling: touch;
 }
 
 .scrollbar-hide {
-  -ms-overflow-style: none;  /* IE and Edge */
-  scrollbar-width: none;  /* Firefox */
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.scrollbar-hidden {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch; /* smooth scrolling on iOS */
 }
 
 

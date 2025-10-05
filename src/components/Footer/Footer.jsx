@@ -49,7 +49,7 @@ export default function Footer() {
 
 
             <div className="flex justify-center">
-                <div className="sm:hidden shadow fixed py-1 px-5 z-50 bottom-1.5 w-fit bg-gradient-to-r from-[#2E2117] via-[#796855] to-[#2E2117] rounded-full">
+                <div className="sm:hidden shadow fixed py-1 px-2 z-50 bottom-1.5 w-fit bg-gradient-to-r from-[#2E2117] via-[#796855] to-[#2E2117] rounded-3xl">
                     <ul className="flex justify-center gap-8 pt-1 bg-transparent">
                         <li className="flex flex-col items-center h-auto pl-2 w-auto">
                             <NavLink

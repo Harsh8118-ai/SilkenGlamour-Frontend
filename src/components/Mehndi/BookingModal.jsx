@@ -102,7 +102,7 @@ Thank you for booking with *SilkenGlamour!*`;
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm">
-      <div className="relative w-full max-w-lg bg-[#FFF6E6] rounded-2xl shadow-2xl max-h-[80vh] overflow-y-auto">
+      <div className="relative w-full max-w-lg bg-[#FFF6E6] rounded-2xl shadow-2xl max-h-[70vh] overflow-y-auto scrollbar-hidden scollbar-hide">
         <button
           onClick={handleClose}
           className="absolute top-4 right-4 p-2 rounded-full hover:bg-[#3E2B2A]/10 transition-colors z-10"

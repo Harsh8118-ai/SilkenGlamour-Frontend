@@ -67,7 +67,7 @@ const SocialMediaLinksService = () => {
                     data-aos-delay="400"
                     className="bg-BGColorYellow rounded-full p-2 shadow-lg hover:bg-[#635a4f] hover:text-white"
                 >
-                    <a href="https://wa.me/yournumber" target="_blank" onClick={handleClick} rel="noopener noreferrer">
+                    <a href="https://wa.me/919266037001" target="_blank" onClick={handleClick} rel="noopener noreferrer">
                         <FaWhatsapp className={`${iconClasses} w-6 h-6 sm:w-8 sm:h-8`} />
                     </a>
                 </div>
