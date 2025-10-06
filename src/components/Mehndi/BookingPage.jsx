@@ -242,7 +242,7 @@ Thank you for booking with *SilkenGlamour!*`;
                   </>
                 ) : (
                   <div className="space-y-3">
-                    {["10:00 AM - 12:00 PM", "2:00 PM - 4:00 PM", "5:00 PM - 7:00 PM", "8:00 PM - 10:00 PM", "10:00 PM - 12:00 AM"].map((slot) => (
+                    {["10:00 AM - 12:00 PM", "2:00 PM - 4:00 PM", "5:00 PM - 7:00 PM", "8:00 PM - 10:00 PM", "10:00 PM - 12:00 AM", "12:00 AM - 02:00 AM"].map((slot) => (
                       <button
                         key={slot}
                         type="button"
