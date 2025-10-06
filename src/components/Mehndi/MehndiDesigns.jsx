@@ -95,9 +95,9 @@ export default function MehndiDesigns() {
               alt={design.title}
               className="w-full h-48 object-cover rounded-lg shadow-md group-hover:scale-105 transition-transform duration-300"
             />
-            <p className="mt-2 text-center text-sm font-medium text-gray-700">
+            {/* <p className="mt-2 text-center text-sm font-medium text-gray-700">
               {design.title}
-            </p>
+            </p> */}
           </div>
         ))}
       </div>
