@@ -274,17 +274,23 @@ Thank you for booking with *SilkenGlamour!*`;
             </>
           ) : (
             <div className="text-center space-y-6">
-
-
               <div className="text-center">
                 <a
                   href="https://res.cloudinary.com/dpnykjono/image/upload/v1759750660/Screenshot_2025-10-06_170657_dfaeyh.png"
-                  download="https://res.cloudinary.com/dpnykjono/image/upload/v1759750660/Screenshot_2025-10-06_170657_dfaeyh.png" // 👈 file name for download
+                  download="QR_Code"
                 >
                   <img
                     src="https://res.cloudinary.com/dpnykjono/image/upload/v1759750660/Screenshot_2025-10-06_170657_dfaeyh.png"
                     alt="qr-code"
-                    className="h-[25vh] mx-auto cursor-pointer" 
+                    className="h-[25vh] mx-auto cursor-pointer"
+                    onClick={() => {
+                      const link = document.createElement("a");
+                      link.href = "https://res.cloudinary.com/dpnykjono/image/upload/v1759750660/Screenshot_2025-10-06_170657_dfaeyh.png";
+                      link.download = "Mehndi_QR_Code.png";
+                      document.body.appendChild(link);
+                      link.click();
+                      document.body.removeChild(link);
+                    }}
                   />
                 </a>
                 <span className="font-bold text-sm block mt-2">
