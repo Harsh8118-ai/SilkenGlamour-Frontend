@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Button } from "../ui/button";
 import { Input } from "../ui/input";
 import { Label } from "../ui/label";
@@ -10,10 +10,13 @@ import {
   SelectValue,
 } from "../ui/select";
 import { Textarea } from "../ui/textarea";
+import { useNavigate } from "react-router-dom";
 
-export function BookingModal({ isOpen, onClose }) {
+export default function BookingPage() {
+  const navigate = useNavigate();
   const [step, setStep] = useState(1);
   const [selectedSlot, setSelectedSlot] = useState("");
+  
   const [formData, setFormData] = useState({
     name: "",
     phone: "",
@@ -79,7 +82,7 @@ export function BookingModal({ isOpen, onClose }) {
       message: "",
     });
     setPhoneError("");
-    onClose();
+    navigate('/');
   };
 
   const handleAddToCalendar = () => {
@@ -104,9 +107,6 @@ Thank you for booking with *SilkenGlamour!*`;
     const whatsappURL = `https://wa.me/919266037001?text=${encodeURIComponent(message)}`;
     window.open(whatsappURL, "_blank");
   };
-
-
-  if (!isOpen) return null;
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm">

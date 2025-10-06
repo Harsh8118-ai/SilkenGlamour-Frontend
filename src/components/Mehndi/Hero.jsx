@@ -1,9 +1,7 @@
-import { useState } from "react";
-import { BookingModal } from "./BookingModal";
+import { Link } from "react-router-dom";
 
 export default function Hero() {
-  const [isModalOpen, setIsModalOpen] = useState(false);
-
+  
   return (
     <>
       <section className="relative w-full bg-gradient-to-b from-[#6C0A12] to-[#3E2B2A] text-center text-white py-10 sm:py-16 px-4 lg:w-[80%] lg:mx-auto overflow-hidden rounded-3xl shadow-lg">
@@ -28,18 +26,16 @@ export default function Hero() {
 
           {/* Buttons */}
           <div className="flex flex-col sm:flex-row justify-center gap-4 mt-6">
-            <button
-              onClick={() => setIsModalOpen(true)}
+            <Link to="/book"><button
               className="w-full sm:w-auto py-4 px-8 rounded-xl bg-[#FFD369] text-[#6C0A12] font-bold shadow-lg hover:scale-105 transition-all duration-300"
             >
               Book Your Mehndi Slot
-            </button>
-            <button
-              onClick={() => setIsModalOpen(true)}
+            </button></Link>
+            <Link to="/book"><button
               className="w-full sm:w-auto py-4 px-8 rounded-xl border-2 border-[#FFD369] text-[#FFD369] font-semibold hover:bg-[#FFD369] hover:text-[#6C0A12] transition-all duration-300"
             >
               Get Free Design Consult
-            </button>
+            </button></Link>
           </div>
 
           {/* Urgency Tag */}
@@ -97,7 +93,6 @@ export default function Hero() {
 
       </section>
 
-      <BookingModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} />
     </>
   );
 }

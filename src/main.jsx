@@ -24,6 +24,7 @@ import AdminUsersPage from './components/Admin/AdminUsersPage';
 import AdminLayout from './components/Admin/AdminLayout';
 
 
+
 // Load Google Analytics ID from .env
 const TRACKING_ID = import.meta.env.VITE_GOOGLE_ANALYTICS_ID;
 ReactGA.initialize(TRACKING_ID);
@@ -59,6 +60,8 @@ const CardFacial = React.lazy(() => import('./components/Service/Service Card/Ca
 const ChatBotLayout = React.lazy(() => import('./components/FAQ/ChatBotLayout'));
 const Profile = React.lazy(() => import('./components/Profile/Profile'));
 const AuthSuccess = React.lazy(() => import('./Store/AuthSuccess'));
+const BookingPage = React.lazy(() => import('./components/Mehndi/BookingPage'));
+
 
 
 const router = createBrowserRouter(
@@ -72,34 +75,36 @@ const router = createBrowserRouter(
           </Suspense>
         }
       />
+
       <Route element={<AdminRoute />}>
-  <Route path="admin" element={<AdminLayout />}>
-    <Route
-      index
-      element={
-        <Suspense fallback={<div className='bg-MainBGColorYellow h-screen w-full'></div>}>
-          <AdminDashboard />
-        </Suspense>
-      }
-    />
-    <Route
-      path="orders"
-      element={
-        <Suspense fallback={<div className='bg-MainBGColorYellow h-screen w-full'></div>}>
-          <AdminOrdersPage />
-        </Suspense>
-      }
-    />
-    <Route
-      path="users"
-      element={
-        <Suspense fallback={<div className='bg-MainBGColorYellow h-screen w-full'></div>}>
-          <AdminUsersPage />
-        </Suspense>
-      }
-    />
-  </Route>
-</Route>
+        <Route path="admin" element={<AdminLayout />}>
+          <Route
+            index
+            element={
+              <Suspense fallback={<div className='bg-MainBGColorYellow h-screen w-full'></div>}>
+                <AdminDashboard />
+              </Suspense>
+            }
+          />
+          <Route
+            path="orders"
+            element={
+              <Suspense fallback={<div className='bg-MainBGColorYellow h-screen w-full'></div>}>
+                <AdminOrdersPage />
+              </Suspense>
+            }
+          />
+          <Route
+            path="users"
+            element={
+              <Suspense fallback={<div className='bg-MainBGColorYellow h-screen w-full'></div>}>
+                <AdminUsersPage />
+              </Suspense>
+            }
+          />
+        </Route>
+      </Route>
+
       <Route
         path="review"
         element={
@@ -108,6 +113,16 @@ const router = createBrowserRouter(
           </Suspense>
         }
       />
+
+      <Route
+        path="book"
+        element={
+          <Suspense fallback={<div className='bg-MainBGColorYellow h-screen w-full'></div>}>
+            <BookingPage />
+          </Suspense>
+        }
+      />
+
       <Route
         path="about"
         element={
