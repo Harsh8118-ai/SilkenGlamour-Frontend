@@ -16,7 +16,7 @@ export default function Hero() {
 
           {/* Offer Highlight */}
           <div className="inline-block bg-[#FFD369] text-[#6C0A12] px-6 py-2 rounded-full text-lg font-semibold shadow-md">
-            Mehndi @ Just <span className="font-bold text-xl">₹699</span>
+            Mehndi Starting @ Just <span className="font-bold text-xl">₹699</span>
           </div>
 
           {/* Booking Offer */}
@@ -53,7 +53,7 @@ export default function Hero() {
                 d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
               />
             </svg>
-            Only 5 days slots left — hurry!
+            Few days left — hurry!
           </div>
 
           {/* Trust Badges */}

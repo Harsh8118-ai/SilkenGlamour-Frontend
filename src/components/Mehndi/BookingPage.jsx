@@ -16,7 +16,7 @@ export default function BookingPage() {
   const navigate = useNavigate();
   const [step, setStep] = useState(1);
   const [selectedSlot, setSelectedSlot] = useState("");
-  
+
   const [formData, setFormData] = useState({
     name: "",
     phone: "",
@@ -274,26 +274,26 @@ Thank you for booking with *SilkenGlamour!*`;
             </>
           ) : (
             <div className="text-center space-y-6">
-              <div className="w-16 h-16 mx-auto bg-[#0B8A63] rounded-full flex items-center justify-center">
-                <svg className="w-10 h-10 text-white" fill="currentColor" viewBox="0 0 20 20">
-                  <path
-                    fillRule="evenodd"
-                    d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                    clipRule="evenodd"
+
+
+              <div className="text-center">
+                <a
+                  href="https://res.cloudinary.com/dpnykjono/image/upload/v1759750660/Screenshot_2025-10-06_170657_dfaeyh.png"
+                  download="https://res.cloudinary.com/dpnykjono/image/upload/v1759750660/Screenshot_2025-10-06_170657_dfaeyh.png" // 👈 file name for download
+                >
+                  <img
+                    src="https://res.cloudinary.com/dpnykjono/image/upload/v1759750660/Screenshot_2025-10-06_170657_dfaeyh.png"
+                    alt="qr-code"
+                    className="h-[25vh] mx-auto cursor-pointer" 
                   />
-                </svg>
+                </a>
+                <span className="font-bold text-sm block mt-2">
+                  Done the payment of ₹99
+                </span>
               </div>
 
-              <div>
-                <h2 className="font-serif text-[32px] font-semibold text-[#3E2B2A] mb-2">
-                  Booking Received!
-                </h2>
-                <p className="text-base text-[#6b6560]">
-                  Your request is received — we'll confirm in 1 hour via SMS & WhatsApp.
-                </p>
-              </div>
 
-              <div className="bg-white/90 rounded-2xl p-6 shadow-md text-left space-y-3">
+              <div className="bg-white/90 rounded-2xl p-6 py-3 shadow-md text-left space-y-3">
                 <h3 className="font-semibold text-[#3E2B2A] mb-3">Booking Summary</h3>
                 <div className="space-y-2 text-sm">
                   <div className="flex justify-between">
