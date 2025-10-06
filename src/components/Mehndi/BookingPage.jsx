@@ -155,6 +155,7 @@ Thank you for booking with *SilkenGlamour!*`;
                       <Input
                         id="name"
                         required
+                        placeholder="Full Name"
                         value={formData.name}
                         onChange={(e) => setFormData({ ...formData, name: e.target.value })}
                         className="w-full p-3 rounded-md border border-[#e9e2da] bg-white text-[#3E2B2A]"
@@ -214,26 +215,39 @@ Thank you for booking with *SilkenGlamour!*`;
                       </Select>
                     </div>
 
-                    <div className="space-y-2">
-                      <Label htmlFor="location" className="text-sm font-medium text-[#3E2B2A]">
-                        Location *
+                    <Label htmlFor="date" className="text-sm font-medium text-[#3E2B2A]">
+                        Payment to Book your Slot ₹99*
                       </Label>
-                      <Input
-                        id="location"
-                        required
-                        value={formData.location}
-                        onChange={(e) => setFormData({ ...formData, location: e.target.value })}
-                        className="w-full p-3 rounded-md border border-[#e9e2da] bg-white text-[#3E2B2A]"
-                      />
+                    <div className="text-center">
+                      
+                      <a
+                        href="https://res.cloudinary.com/dpnykjono/image/upload/v1759750660/Screenshot_2025-10-06_170657_dfaeyh.png"
+                        download="QR_Code"
+                      >
+                        <img
+                          src="https://res.cloudinary.com/dpnykjono/image/upload/v1759750660/Screenshot_2025-10-06_170657_dfaeyh.png"
+                          alt="qr-code"
+                          className="h-[25vh] mx-auto cursor-pointer"
+                          onClick={() => {
+                            const link = document.createElement("a");
+                            link.href = "https://res.cloudinary.com/dpnykjono/image/upload/v1759750660/Screenshot_2025-10-06_170657_dfaeyh.png";
+                            link.download = "Mehndi_QR_Code.png";
+                            document.body.appendChild(link);
+                            link.click();
+                            document.body.removeChild(link);
+                          }}
+                        />
+                      </a>
                     </div>
 
                     <div className="space-y-2">
                       <Label htmlFor="message" className="text-sm font-medium text-[#3E2B2A]">
-                        Special Requests (Optional)
+                        Enter the UPI Ref ID here*
                       </Label>
                       <Textarea
                         id="message"
-                        rows={3}
+                        rows={1}
+                        placeholder="Paste the UPI Ref number after Payment"
                         value={formData.message}
                         onChange={(e) => setFormData({ ...formData, message: e.target.value })}
                         className="w-full p-3 rounded-md border border-[#e9e2da] bg-white text-[#3E2B2A]"
@@ -274,30 +288,11 @@ Thank you for booking with *SilkenGlamour!*`;
             </>
           ) : (
             <div className="text-center space-y-6">
-              <div className="text-center">
-                <a
-                  href="https://res.cloudinary.com/dpnykjono/image/upload/v1759750660/Screenshot_2025-10-06_170657_dfaeyh.png"
-                  download="QR_Code"
-                >
-                  <img
-                    src="https://res.cloudinary.com/dpnykjono/image/upload/v1759750660/Screenshot_2025-10-06_170657_dfaeyh.png"
-                    alt="qr-code"
-                    className="h-[25vh] mx-auto cursor-pointer"
-                    onClick={() => {
-                      const link = document.createElement("a");
-                      link.href = "https://res.cloudinary.com/dpnykjono/image/upload/v1759750660/Screenshot_2025-10-06_170657_dfaeyh.png";
-                      link.download = "Mehndi_QR_Code.png";
-                      document.body.appendChild(link);
-                      link.click();
-                      document.body.removeChild(link);
-                    }}
-                  />
-                </a>
-                <span className="font-bold text-sm block mt-2">
-                  Done the payment of ₹99
-                </span>
+              <div>
+                <p className="text-base leading-relaxed mt-2 tracking-[0.02em] text-[#6b6560]">
+                  Send your request — we'll confirm in 1 hour via SMS & WhatsApp.
+                </p>
               </div>
-
 
               <div className="bg-white/90 rounded-2xl p-6 py-3 shadow-md text-left space-y-3">
                 <h3 className="font-semibold text-[#3E2B2A] mb-3">Booking Summary</h3>
