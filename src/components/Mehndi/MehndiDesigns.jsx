@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Dialog } from "@headlessui/react";
 import { Button } from "../ui/button";
+import { X } from "lucide-react";
 
 const designs = [
   {
@@ -63,8 +64,6 @@ const designs = [
     title: "Back Hand Mandala Design",
     image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756512/Photo_12_wknn5y.jpg",
   },
-
-  // Add more designs here
 ];
 
 export default function MehndiDesigns() {
@@ -107,30 +106,39 @@ export default function MehndiDesigns() {
       <Dialog
         open={!!selectedDesign}
         onClose={() => setSelectedDesign(null)}
-        className="fixed inset-0 z-50 flex items-center justify-center bg-black/70"
+        className="fixed inset-0 z-50 flex items-center justify-center bg-black/70 p-4 overflow-y-auto"
       >
         {selectedDesign && (
-          <div className="bg-white p-4 sm:p-6 rounded-xl shadow-lg max-w-sm sm:max-w-md text-center">
-            <img
-              src={selectedDesign.image}
-              alt={selectedDesign.title}
-              className="rounded-lg mb-4 w-full object-cover"
-            />
-            <h2 className="font-semibold text-lg text-gray-800 mb-2">
+          <div className="relative bg-white rounded-2xl shadow-xl max-w-2xl w-full mx-auto p-4 sm:p-6 mt-20 mb-10">
+            {/* Close Button */}
+            <button
+              onClick={() => setSelectedDesign(null)}
+              className="absolute top-3 right-3 text-gray-600 hover:text-gray-800 transition"
+            >
+              <X size={22} />
+            </button>
+
+            {/* Image (auto-fit any size) */}
+            <div className="flex justify-center">
+              <img
+                src={selectedDesign.image}
+                alt={selectedDesign.title}
+                className="rounded-lg mb-4 max-h-[80vh] w-auto object-contain"
+              />
+            </div>
+
+            {/* Title */}
+            <h2 className="font-semibold text-lg text-center text-gray-800 mb-3">
               {selectedDesign.title}
             </h2>
+
+            {/* WhatsApp Button */}
             <Button
               onClick={() => handleWhatsApp(selectedDesign)}
               className="bg-green-600 hover:bg-green-700 text-white w-full"
             >
               Send on WhatsApp
             </Button>
-            <button
-              onClick={() => setSelectedDesign(null)}
-              className="mt-3 text-sm text-gray-500 hover:text-gray-700"
-            >
-              Close
-            </button>
           </div>
         )}
       </Dialog>
