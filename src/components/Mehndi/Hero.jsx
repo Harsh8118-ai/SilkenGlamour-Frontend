@@ -31,7 +31,7 @@ export default function Hero() {
             >
               Book Your Mehndi Slot
             </button></Link>
-            <Link to="/book"><button
+            <Link to="/designs"><button
               className="w-full sm:w-auto py-4 px-8 rounded-xl border-2 border-[#FFD369] text-[#FFD369] font-semibold hover:bg-[#FFD369] hover:text-[#6C0A12] transition-all duration-300"
             >
               Get Free Design Consult

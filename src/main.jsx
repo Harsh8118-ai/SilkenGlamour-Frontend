@@ -61,6 +61,7 @@ const ChatBotLayout = React.lazy(() => import('./components/FAQ/ChatBotLayout'))
 const Profile = React.lazy(() => import('./components/Profile/Profile'));
 const AuthSuccess = React.lazy(() => import('./Store/AuthSuccess'));
 const BookingPage = React.lazy(() => import('./components/Mehndi/BookingPage'));
+const MehndiDesigns = React.lazy(() => import('./components/Mehndi/MehndiDesigns'));
 
 
 
@@ -119,6 +120,15 @@ const router = createBrowserRouter(
         element={
           <Suspense fallback={<div className='bg-MainBGColorYellow h-screen w-full'></div>}>
             <BookingPage />
+          </Suspense>
+        }
+      />
+
+      <Route
+        path="designs"
+        element={
+          <Suspense fallback={<div className='bg-MainBGColorYellow h-screen w-full'></div>}>
+            <MehndiDesigns />
           </Suspense>
         }
       />
