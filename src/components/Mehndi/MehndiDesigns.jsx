@@ -3,69 +3,92 @@ import { Dialog } from "@headlessui/react";
 import { Button } from "../ui/button";
 import { X } from "lucide-react";
 
+// const designs = [
+//   {
+//     id: 1,
+//     title: "Bridal Full Hand Design",
+//     image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756514/Photo_1_z1raod.avif",
+//   },
+//   {
+//     id: 2,
+//     title: "Simple Arabic Design",
+//     image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756514/Photo_3_clqvod.avif",
+//   },
+//   {
+//     id: 3,
+//     title: "Front Hand Floral Design",
+//     image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756514/Photo_2_lmojmw.avif",
+//   },
+//   {
+//     id: 4,
+//     title: "Back Hand Mandala Design",
+//     image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756514/Photo_5_ekmsnz.jpg",
+//   },
+//   {
+//     id: 5,
+//     title: "Back Hand Mandala Design",
+//     image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756514/Photo_4_lm0gau.avif",
+//   },
+//   {
+//     id: 6,
+//     title: "Back Hand Mandala Design",
+//     image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756513/Photo_7_f7qcav.jpg",
+//   },
+//   {
+//     id: 7,
+//     title: "Back Hand Mandala Design",
+//     image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756512/Photo_8_xpuanh.jpg",
+//   },
+//   {
+//     id: 8,
+//     title: "Back Hand Mandala Design",
+//     image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756512/Photo_6_rwdqik.jpg",
+//   },
+//   {
+//     id: 9,
+//     title: "Back Hand Mandala Design",
+//     image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756512/photo_10_tcpivx.jpg",
+//   },
+//   {
+//     id: 10,
+//     title: "Back Hand Mandala Design",
+//     image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756512/Photo_11_vuwtmr.jpg",
+//   },
+//   {
+//     id: 11,
+//     title: "Back Hand Mandala Design",
+//     image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756512/Photo_9_tpgmsd.jpg",
+//   },
+//   {
+//     id: 12,
+//     title: "Back Hand Mandala Design",
+//     image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756512/Photo_12_wknn5y.jpg",
+//   },
+// ];
+
+
 const designs = [
   {
     id: 1,
-    title: "Bridal Full Hand Design",
-    image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756514/Photo_1_z1raod.avif",
+    title: "₹699 Both Hands",
+    image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759840134/3238f3ac-25ba-4a35-b9de-cb83ccb5ee6c.png",
   },
   {
     id: 2,
-    title: "Simple Arabic Design",
-    image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756514/Photo_3_clqvod.avif",
+    title: "₹999 Both Hands",
+    image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759840052/06afb377-fd8b-4ec9-afb4-105bb35881ad.png",
   },
   {
     id: 3,
-    title: "Front Hand Floral Design",
-    image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756514/Photo_2_lmojmw.avif",
+    title: "₹2199 Both Hands",
+    image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759840083/b33afe20-2222-4994-b84c-313b8727d58f.png",
   },
   {
     id: 4,
-    title: "Back Hand Mandala Design",
-    image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756514/Photo_5_ekmsnz.jpg",
-  },
-  {
-    id: 5,
-    title: "Back Hand Mandala Design",
-    image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756514/Photo_4_lm0gau.avif",
-  },
-  {
-    id: 6,
-    title: "Back Hand Mandala Design",
-    image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756513/Photo_7_f7qcav.jpg",
-  },
-  {
-    id: 7,
-    title: "Back Hand Mandala Design",
-    image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756512/Photo_8_xpuanh.jpg",
-  },
-  {
-    id: 8,
-    title: "Back Hand Mandala Design",
-    image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756512/Photo_6_rwdqik.jpg",
-  },
-  {
-    id: 9,
-    title: "Back Hand Mandala Design",
-    image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756512/photo_10_tcpivx.jpg",
-  },
-  {
-    id: 10,
-    title: "Back Hand Mandala Design",
-    image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756512/Photo_11_vuwtmr.jpg",
-  },
-  {
-    id: 11,
-    title: "Back Hand Mandala Design",
-    image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756512/Photo_9_tpgmsd.jpg",
-  },
-  {
-    id: 12,
-    title: "Back Hand Mandala Design",
-    image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759756512/Photo_12_wknn5y.jpg",
-  },
+    title: "₹4999 Both Hands",
+    image: "https://res.cloudinary.com/dpnykjono/image/upload/v1759840097/58a8b694-7c81-4611-a70f-84c0b9a1f3c3.png",
+  }
 ];
-
 export default function MehndiDesigns() {
   const [selectedDesign, setSelectedDesign] = useState(null);
 
@@ -95,9 +118,9 @@ export default function MehndiDesigns() {
               alt={design.title}
               className="w-full h-48 object-cover rounded-lg shadow-md group-hover:scale-105 transition-transform duration-300"
             />
-            {/* <p className="mt-2 text-center text-sm font-medium text-gray-700">
+            <p className="mt-2 text-center text-sm font-medium text-gray-700">
               {design.title}
-            </p> */}
+            </p>
           </div>
         ))}
       </div>
