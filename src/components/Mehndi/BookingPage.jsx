@@ -215,42 +215,31 @@ Thank you for booking with *SilkenGlamour!*`;
                       </Select>
                     </div>
 
-                    <Label htmlFor="date" className="text-sm font-medium text-[#3E2B2A]">
-                        Payment to Book your Slot ₹99*
+                     <div className="space-y-2">
+                      <Label htmlFor="location" className="text-sm font-medium text-[#3E2B2A]">
+                        Location *
                       </Label>
-                    <div className="text-center">
-                      
-                      <a
-                        href="https://res.cloudinary.com/dpnykjono/image/upload/v1759750660/Screenshot_2025-10-06_170657_dfaeyh.png"
-                        download="QR_Code"
-                      >
-                        <img
-                          src="https://res.cloudinary.com/dpnykjono/image/upload/v1759750660/Screenshot_2025-10-06_170657_dfaeyh.png"
-                          alt="qr-code"
-                          className="h-[25vh] mx-auto cursor-pointer"
-                          onClick={() => {
-                            const link = document.createElement("a");
-                            link.href = "https://res.cloudinary.com/dpnykjono/image/upload/v1759750660/Screenshot_2025-10-06_170657_dfaeyh.png";
-                            link.download = "Mehndi_QR_Code.png";
-                            document.body.appendChild(link);
-                            link.click();
-                            document.body.removeChild(link);
-                          }}
-                        />
-                      </a>
+                      <Input
+                        id="location"
+                        required
+                        value={formData.location}
+                        onChange={(e) => setFormData({ ...formData, location: e.target.value })}
+                        className="w-full p-3 rounded-md border border-[#e9e2da] focus:outline-none focus:ring-2 focus:ring-[#0B8A63] bg-white text-[#3E2B2A]"
+                        aria-label="Enter your location"
+                      />
                     </div>
 
                     <div className="space-y-2">
                       <Label htmlFor="message" className="text-sm font-medium text-[#3E2B2A]">
-                        Enter the UPI Ref ID here*
+                        Special Requests (Optional)
                       </Label>
                       <Textarea
                         id="message"
-                        rows={1}
-                        placeholder="Paste the UPI Ref number after Payment"
+                        rows={3}
                         value={formData.message}
                         onChange={(e) => setFormData({ ...formData, message: e.target.value })}
-                        className="w-full p-3 rounded-md border border-[#e9e2da] bg-white text-[#3E2B2A]"
+                        className="w-full p-3 rounded-md border border-[#e9e2da] focus:outline-none focus:ring-2 focus:ring-[#0B8A63] bg-white text-[#3E2B2A]"
+                        aria-label="Enter any special requests"
                       />
                     </div>
                   </>
